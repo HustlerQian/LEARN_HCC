@@ -1,0 +1,1252 @@
+id,S_id,S_name,S_cui_entrezid,S_semtypes,P_name,O_id,O_name,O_cui_entrezid,O_semtypes
+D10029060.P1,D10029060.E11,Malignant neoplasm of testis,,neop,PROCESS_OF,D10029060.E13,Mus,,mamm
+D10029060.P2,D10029060.E9,Malignant neoplasm of lung,,neop,PROCESS_OF,D10029060.E13,Mus,,mamm
+D10029060.P3,D10029060.E3,"XERODERMA PIGMENTOSUM, COMPLEMENTATION GROUP C",,dsyn,PROCESS_OF,D10029060.E13,Mus,,mamm
+D10029060.P4,D10029060.E19,Xeroderma Pigmentosum,,cgab,ISA,D10029060.E18,DNA Repair-Deficiency,,patf
+D10029060.P5,D10029060.E27,Body tissue,,tisu,LOCATION_OF,D10029060.E26,Malignant Neoplasms,,neop
+D10029060.P6,D10029060.E33,Organ,,bpoc,LOCATION_OF,D10029060.E31,Chemical Carcinogenesis,,neop
+D10029060.P7,D10029060.E34,XPC gene,,aapp,PREVENTS,D10029060.E31,Chemical Carcinogenesis,,neop
+D10029060.P8,D10029060.E44,Lung Neoplasms,,neop,PROCESS_OF,D10029060.E46,Mus,,mamm
+D10029060.P9,D10029060.E50,Liver neoplasms,,neop,PROCESS_OF,D10029060.E53,Mus,,mamm
+D10037274.P1,D10037274.E6,Intercellular adhesion molecule 1,,aapp,PREDISPOSES,D10037274.E7,Secondary malignant neoplasm of liver,,neop
+D10037274.P2,D10037274.E6,Intercellular adhesion molecule 1,,aapp,PREDISPOSES,D10037274.E10,Secondary Neoplasm,,neop
+D10037274.P3,D10037274.E13,Intercellular adhesion molecule 1,,aapp,PART_OF,D10037274.E14,Fresh Tissue,,tisu
+D10037274.P4,D10037274.E32,Liver neoplasms,,neop,PROCESS_OF,D10037274.E31,Homo sapiens,,humn
+D10037274.P5,D10037274.E20,Intercellular adhesion molecule 1,,aapp,PART_OF,D10037274.E19,soluble,,celc
+D10037274.P6,D10037274.E29,Secondary malignant neoplasm of liver,,neop,PROCESS_OF,D10037274.E30,Mouse Model,,emod
+D10037274.P7,D10037274.E24,Intercellular adhesion molecule 1,,gngm,PART_OF,D10037274.E32,Liver neoplasms,,neop
+D10037274.P8,D10037274.E24,Intercellular adhesion molecule 1,,gngm,PART_OF,D10037274.E27,Neoplasms,,neop
+D10037274.P9,D10037274.E23,Benign Neoplasm,,neop,PROCESS_OF,D10037274.E21,Patients,,humn
+D10037274.P10,D10037274.E21,Patients,,humn,LOCATION_OF,D10037274.E20,Intercellular adhesion molecule 1,,aapp
+D10037274.P11,D10037274.E42,Intercellular adhesion molecule 1,,gngm,PART_OF,D10037274.E44,Secondary malignant neoplasm of liver,,neop
+D10037274.P12,D10037274.E88,Intercellular adhesion molecule 1,,aapp,ASSOCIATED_WITH,D10037274.E89,Malignant neoplasm of liver,,neop
+D10037274.P13,D10037274.E96,Intercellular adhesion molecule 1,,aapp,PART_OF,D10037274.E95,soluble,,celc
+D10037274.P14,D10037274.E99,Malignant neoplasm of liver,,neop,PROCESS_OF,D10037274.E100,Patients,,humn
+D10037274.P15,D10037274.E101,Patients,,humn,LOCATION_OF,D10037274.E96,Intercellular adhesion molecule 1,,aapp
+D10037274.P16,D10037274.E100,Patients,,humn,LOCATION_OF,D10037274.E97,Intercellular adhesion molecule 1,,aapp
+D10037274.P17,D10037274.E107,Intercellular adhesion molecule 1,,aapp,PART_OF,D10037274.E106,soluble,,celc
+D10037274.P18,D10037274.E109,secondary group,,humn,LOCATION_OF,D10037274.E104,Intercellular adhesion molecule 1,,aapp
+D10037274.P19,D10037274.E109,secondary group,,humn,LOCATION_OF,D10037274.E107,Intercellular adhesion molecule 1,,aapp
+D10037274.P20,D10037274.E120,Intercellular adhesion molecule 1,,aapp,ASSOCIATED_WITH,D10037274.E124,Malignant neoplasm of liver,,neop
+D10037274.P21,D10037274.E133,Intercellular adhesion molecule 1,,aapp,PART_OF,D10037274.E132,soluble,,celc
+D10051471.P1,D10051471.E6,Hepatocarcinogenesis,,neop,AFFECTS,D10051471.E1,DNA hypermethylation,,genf
+D10051471.P2,D10051471.E8,Aberrant DNA Methylation,,comd,COEXISTS_WITH,D10051471.E9,Hepatocarcinogenesis,,neop
+D10051471.P3,D10051471.E14,Candidate Tumor Suppressor Gene,,gngm,ASSOCIATED_WITH,D10051471.E18,Liver and Intrahepatic Biliary Tract Carcinoma,,neop
+D10051471.P4,D10051471.E27,Liver parenchyma,,bpoc,LOCATION_OF,D10051471.E25,Precancerous Conditions,,neop
+D10051471.P5,D10051471.E31,Locus,,gngm,ASSOCIATED_WITH,D10051471.E33,Liver carcinoma,,neop
+D10051471.P6,D10051471.E67,TP53 gene,,gngm,ASSOCIATED_WITH,D10051471.E72,Liver carcinoma,,neop
+D10051471.P7,D10051471.E75,Locus,,gngm,DISRUPTS,D10051471.E79,Hepatocarcinogenesis,,neop
+D10068108.P1,D10068108.E5,Liver carcinoma,,neop,PROCESS_OF,D10068108.E4,Homo sapiens,,humn
+D10068108.P2,D10068108.E3,Stroma,,bpoc,PART_OF,D10068108.E5,Liver carcinoma,,neop
+D10068108.P3,D10068108.E17,Liver,,bpoc,PART_OF,D10068108.E14,Liver carcinoma,,neop
+D10068108.P4,D10068108.E13,Stroma,,bpoc,PART_OF,D10068108.E14,Liver carcinoma,,neop
+D10068108.P5,D10068108.E53,Collagen,,aapp,PART_OF,D10068108.E48,Stroma,,bpoc
+D10068108.P6,D10068108.E47,Collagen,,aapp,PART_OF,D10068108.E48,Stroma,,bpoc
+D10068108.P7,D10068108.E48,Stroma,,bpoc,PART_OF,D10068108.E49,Neoplasms,,neop
+D10068108.P8,D10068108.E61,Stroma,,bpoc,PART_OF,D10068108.E60,Liver carcinoma,,neop
+D10068108.P9,D10068108.E56,Cells,,cell,PRODUCES,D10068108.E58,Transcript,,nnon
+D10068108.P10,D10068108.E75,Myofibroblasts,,cell,PART_OF,D10068108.E74,Liver,,bpoc
+D10068108.P11,D10068108.E93,Stroma,,bpoc,LOCATION_OF,D10068108.E92,Collagen,,aapp
+D10068108.P12,D10068108.E93,Stroma,,bpoc,PART_OF,D10068108.E94,Liver carcinoma,,neop
+D10068108.P13,D10068108.E107,Stroma,,bpoc,PART_OF,D10068108.E106,Liver carcinoma,,neop
+D10076051.P1,D10076051.E4,Liver carcinoma,,neop,PROCESS_OF,D10076051.E3,Homo sapiens,,humn
+D10076051.P2,D10076051.E5,Interleukin-6,,gngm,PART_OF,D10076051.E4,Liver carcinoma,,neop
+D10076051.P3,D10076051.E1,macrophage stimulating protein,,gngm,PART_OF,D10076051.E4,Liver carcinoma,,neop
+D10076051.P4,D10076051.E10,Liver carcinoma,,neop,PROCESS_OF,D10076051.E9,Homo sapiens,,humn
+D10076051.P5,D10076051.E26,Liver and Intrahepatic Biliary Tract Carcinoma,,neop,PROCESS_OF,D10076051.E25,Homo sapiens,,humn
+D10076051.P6,D10076051.E24,Genes,,gngm,PART_OF,D10076051.E26,Liver and Intrahepatic Biliary Tract Carcinoma,,neop
+D10076051.P7,D10076051.E41,"RNA, Messenger",,bacs,ASSOCIATED_WITH,D10076051.E42,Hepatoblastoma,,neop
+D10076051.P8,D10076051.E55,"RNA, Messenger",,bacs,PART_OF,D10076051.E56,Hep G2 Cells,,cell
+D10076051.P9,D10076051.E50,macrophage stimulating protein,,aapp,INTERACTS_WITH,D10076051.E48,cytokine,,aapp
+D10081488.P1,D10081488.E2,multidrug resistance-associated protein 2,,aapp,ASSOCIATED_WITH,D10081488.E4,Neuroblastoma,,neop
+D10081488.P2,D10081488.E2,multidrug resistance-associated protein 2,,aapp,ASSOCIATED_WITH,D10081488.E5,Malignant neoplasm of liver,,neop
+D10081488.P3,D10081488.E1,Multidrug Resistance Associated Protein 1,,aapp,ASSOCIATED_WITH,D10081488.E4,Neuroblastoma,,neop
+D10081488.P4,D10081488.E1,Multidrug Resistance Associated Protein 1,,aapp,ASSOCIATED_WITH,D10081488.E5,Malignant neoplasm of liver,,neop
+D10081488.P5,D10081488.E9,Neuroblastoma,,neop,ISA,D10081488.E12,Malignant Childhood Neoplasm,,neop
+D10081488.P6,D10081488.E17,Neoplasms,,neop,PROCESS_OF,D10081488.E16,Patients,,humn
+D10081488.P7,D10081488.E21,multidrug resistance-associated protein 2,,bacs,PART_OF,D10081488.E27,Multidrug Resistance Associated Protein 1,,aapp
+D10081488.P8,D10081488.E20,Multidrug Resistance Associated Protein 1,,bacs,PART_OF,D10081488.E28,multidrug resistance-associated protein 2,,aapp
+D10081488.P9,D10081488.E32,N-myc Genes,,gngm,PART_OF,D10081488.E33,Neuroblastoma,,neop
+D10081488.P10,D10081488.E36,MYCN gene,,gngm,PART_OF,D10081488.E37,Neuroblastoma,,neop
+D10081488.P11,D10081488.E35,ABCC1 gene,,gngm,PART_OF,D10081488.E37,Neuroblastoma,,neop
+D10081488.P12,D10081488.E44,MYCN gene,,gngm,STIMULATES,D10081488.E45,ABCC1 gene,,gngm
+D10081488.P13,D10081488.E45,ABCC1 gene,,gngm,COEXISTS_WITH,D10081488.E46,MYCN gene,,gngm
+D10081488.P14,D10081488.E49,multidrug resistance-associated protein 2,,gngm,PART_OF,D10081488.E51,Neuroblastoma,,neop
+D10081488.P15,D10081488.E55,multidrug resistance-associated protein 2,,aapp,ASSOCIATED_WITH,D10081488.E56,childhood hepatocellular carcinoma,,neop
+D10081488.P16,D10081488.E54,Multidrug Resistance Associated Protein 1,,aapp,ASSOCIATED_WITH,D10081488.E56,childhood hepatocellular carcinoma,,neop
+D10189890.P1,D10189890.E2,WT-1,,gngm,PART_OF,D10189890.E3,solid tumor,,neop
+D10189890.P2,D10189890.E7,WT-1,,gngm,ASSOCIATED_WITH,D10189890.E8,Neoplastic Cell Transformation,,neop
+D10189890.P3,D10189890.E75,Cultured Cell Line,,cell,PRODUCES,D10189890.E87,PSMA1 gene,,aapp
+D10189890.P4,D10189890.E75,Cultured Cell Line,,cell,PRODUCES,D10189890.E76,WT-1,,aapp
+D10189890.P5,D10189890.E113,WT1 gene,,gngm,PART_OF,D10189890.E114,"Tumor cells, malignant",,cell
+D10189890.P6,D10189890.E122,solid tumor,,neop,AFFECTS,D10189890.E121,Growth,,orgf
+D10190313.P1,D10190313.E4,Genes,,gngm,COEXISTS_WITH,D10190313.E5,alpha-Fetoproteins,,aapp
+D10190313.P2,D10190313.E21,FUSE gene,,aapp,TREATS,D10190313.E23,Liver carcinoma,,neop
+D10190313.P3,D10190313.E30,DNA,,bacs,PART_OF,D10190313.E29,"Chromosomes, Human",,celc
+D10190313.P4,D10190313.E57,Interferon Alfa-2b,,aapp,PART_OF,D10190313.E64,"Mice, Nude",,mamm
+D10190313.P5,D10190313.E71,Regulatory DNA sequence,,nusq,INTERACTS_WITH,D10190313.E74,Cytokine Gene,,gngm
+D10190313.P6,D10190313.E78,hepatoma cell,,cell,LOCATION_OF,D10190313.E74,Cytokine Gene,,aapp
+D10190313.P7,D10190313.E82,Genes,,gngm,PRODUCES,D10190313.E84,,,aapp
+D10190901.P1,D10190901.E6,Liver carcinoma,,neop,PROCESS_OF,D10190901.E5,Homo sapiens,,humn
+D10190901.P2,D10190901.E4,Autoantigens,,imft,ASSOCIATED_WITH,D10190901.E6,Liver carcinoma,,neop
+D10190901.P3,D10190901.E16,Liver carcinoma,,neop,PROCESS_OF,D10190901.E13,Patients,,humn
+D10190901.P4,D10190901.E14,"Hepatitis, Chronic",,dsyn,PROCESS_OF,D10190901.E13,Patients,,humn
+D10190901.P5,D10190901.E15,Liver Cirrhosis,,dsyn,PROCESS_OF,D10190901.E13,Patients,,humn
+D10190901.P6,D10190901.E33,Antigens,,imft,PART_OF,D10190901.E32,Unidentified cell,,cell
+D10190901.P7,D10190901.E40,Open Reading Frames,,gngm,PART_OF,D10190901.E39,Clone,,tisu
+D10190901.P8,D10190901.E49,RNA Recognition Motif,,gngm,PART_OF,D10190901.E48,Consensus Sequence,,nusq
+D10190901.P9,D10190901.E67,RNA Recognition Motif,,gngm,PART_OF,D10190901.E66,Consensus Sequence,,nusq
+D10190901.P10,D10190901.E96,GTF3A gene,,gngm,PART_OF,D10190901.E95,Xenopus laevis,,amph
+D10190901.P11,D10190901.E76,Homologous Protein,,gngm,PART_OF,D10190901.E80,Malignant Neoplasms,,neop
+D10190901.P12,D10190901.E84,Proteins,,aapp,INTERACTS_WITH,D10190901.E85,Nucleotides,,nnon
+D10190901.P13,D10190901.E91,Proteins,,aapp,INTERACTS_WITH,D10190901.E85,Nucleotides,,nnon
+D10190901.P14,D10190901.E84,Proteins,,aapp,INTERACTS_WITH,D10190901.E93,,,aapp
+D10190901.P15,D10190901.E91,Proteins,,aapp,INTERACTS_WITH,D10190901.E93,,,aapp
+D10190901.P16,D10190901.E104,Liver carcinoma,,neop,PROCESS_OF,D10190901.E105,Patients,,humn
+D10190901.P17,D10190901.E107,"Hepatitis, Chronic",,dsyn,PROCESS_OF,D10190901.E106,Patients,,humn
+D10190901.P18,D10190901.E108,Liver Cirrhosis,,dsyn,PROCESS_OF,D10190901.E106,Patients,,humn
+D10190901.P19,D10190901.E114,Autoantibodies,,gngm,CAUSES,D10190901.E118,"Transformation, function",,phsf
+D10200348.P1,D10200348.E3,WT-1,,gngm,PART_OF,D10200348.E2,Rattus norvegicus,,mamm
+D10200348.P2,D10200348.E3,WT-1,,gngm,INHIBITS,D10200348.E7,Mediator brand of benfluorex hydrochloride,,orch
+D10200348.P3,D10200348.E18,"Cell Line, Tumor",,cell,PART_OF,D10200348.E17,Rat Liver,,bpoc
+D10200348.P4,D10200348.E38,"Cell Line, Tumor",,cell,PART_OF,D10200348.E37,Rat Liver,,bpoc
+D10200348.P5,D10200348.E38,"Cell Line, Tumor",,cell,PRODUCES,D10200348.E42,Proteins,,aapp
+D10200348.P6,D10200348.E38,"Cell Line, Tumor",,cell,PRODUCES,D10200348.E40,TP53 gene,,aapp
+D10200348.P7,D10200348.E45,MYC gene,,gngm,PRODUCES,D10200348.E49,WT-1,,aapp
+D10200348.P8,D10200348.E46,TGFA gene,,gngm,PRODUCES,D10200348.E49,WT-1,,aapp
+D10200348.P9,D10200348.E44,HRAS wt Allele,,gngm,PRODUCES,D10200348.E49,WT-1,,aapp
+D10200348.P10,D10200348.E54,,,gngm,DISRUPTS,D10200348.E52,Tumorigenicity,,patf
+D10200348.P11,D10200348.E81,Epithelial Cells,,cell,PART_OF,D10200348.E80,Rat Liver,,bpoc
+D10200348.P12,D10200348.E90,hybrid cell line,,cell,LOCATION_OF,D10200348.E85,WT-1,,aapp
+D10200348.P13,D10200348.E76,hybrid cell line,,cell,PRODUCES,D10200348.E79,Proteins,,aapp
+D10200348.P14,D10200348.E76,hybrid cell line,,cell,PRODUCES,D10200348.E87,Proteins,,aapp
+D10200348.P15,D10200348.E76,hybrid cell line,,cell,PRODUCES,D10200348.E77,WT-1,,aapp
+D10200348.P16,D10200348.E97,WT1 gene,,gngm,PART_OF,D10200348.E96,Homo sapiens,,humn
+D10200348.P17,D10200348.E100,Rattus norvegicus,,mamm,LOCATION_OF,D10200348.E98,WT-1,,aapp
+D10200348.P18,D10200348.E97,WT1 gene,,gngm,PART_OF,D10200348.E94,hybrid cell line,,cell
+D10200348.P19,D10200348.E112,Epithelial Cells,,cell,PART_OF,D10200348.E111,Rat Liver,,bpoc
+D10200348.P20,D10200348.E106,WT-1,,gngm,PART_OF,D10200348.E109,hybrid cell line,,cell
+D10200348.P21,D10200348.E128,WT-1,,gngm,PART_OF,D10200348.E129,Cultured Cell Line,,cell
+D10200348.P22,D10200348.E139,WT-1,,gngm,PART_OF,D10200348.E138,Rattus norvegicus,,mamm
+D10201372.P1,D10201372.E4,Cells,,cell,LOCATION_OF,D10201372.E2,Cyclin D1,,aapp
+D10201372.P2,D10201372.E1,CTNNB1 gene,,gngm,INTERACTS_WITH,D10201372.E2,Cyclin D1,,gngm
+D10201372.P3,D10201372.E9,Malignant tumor of colon,,neop,PROCESS_OF,D10201372.E8,Homo sapiens,,humn
+D10201372.P4,D10201372.E6,APC gene,,gngm,ASSOCIATED_WITH,D10201372.E9,Malignant tumor of colon,,neop
+D10201372.P5,D10201372.E6,APC gene,,gngm,ISA,D10201372.E7,Tumor Suppressor Genes,,gngm
+D10201372.P6,D10201372.E7,Tumor Suppressor Genes,,gngm,ASSOCIATED_WITH,D10201372.E9,Malignant tumor of colon,,neop
+D10201372.P7,D10201372.E16,CTNNB1 gene,,gngm,ASSOCIATED_WITH,D10201372.E17,Malignant tumor of colon,,neop
+D10201372.P8,D10201372.E19,APC gene,,gngm,ASSOCIATED_WITH,D10201372.E21,Medulloblastoma,,neop
+D10201372.P9,D10201372.E19,APC gene,,gngm,ASSOCIATED_WITH,D10201372.E20,melanoma,,neop
+D10201372.P10,D10201372.E19,APC gene,,gngm,ASSOCIATED_WITH,D10201372.E22,Malignant neoplasm of prostate,,neop
+D10201372.P11,D10201372.E19,APC gene,,gngm,ASSOCIATED_WITH,D10201372.E24,Liver carcinoma,,neop
+D10201372.P12,D10201372.E31,CTNNB1 gene,,gngm,PART_OF,D10201372.E30,Family,,humn
+D10201372.P13,D10201372.E25,CTNNB1 gene,,gngm,STIMULATES,D10201372.E26,Genes,,gngm
+D10201372.P14,D10201372.E28,TRANSCRIPTION FACTOR,,aapp,PART_OF,D10201372.E30,Family,,humn
+D10201372.P15,D10201372.E32,CTNNB1 gene,,gngm,AUGMENTS,D10201372.E33,"Transcription, Genetic",,genf
+D10201372.P16,D10201372.E37,promoter,,bacs,COEXISTS_WITH,D10201372.E40,Binding Sites,,rcpt
+D10201372.P17,D10201372.E42,HRAS gene,,gngm,STIMULATES,D10201372.E45,"Genes, bcl-1",,gngm
+D10201372.P18,D10201372.E50,Cells,,cell,PRODUCES,D10201372.E56,Proteins,,aapp
+D10201372.P19,D10201372.E50,Cells,,cell,PRODUCES,D10201372.E54,Cyclin D1,,aapp
+D10201372.P20,D10201372.E61,"Tumor cells, malignant",,cell,PART_OF,D10201372.E60,Entire colon,,bpoc
+D10201372.P21,D10201372.E62,Cyclin D1,,bacs,PART_OF,D10201372.E65,CCNE1 gene,,aapp
+D10201372.P22,D10201372.E62,Cyclin D1,,bacs,PART_OF,D10201372.E66,CDK2 gene,,aapp
+D10201372.P23,D10201372.E62,Cyclin D1,,bacs,PART_OF,D10201372.E64,CCND2 gene,,aapp
+D10201372.P24,D10201372.E59,,,gngm,PART_OF,D10201372.E61,"Tumor cells, malignant",,cell
+D10201372.P25,D10201372.E77,CTNNB1 gene,,gngm,PREDISPOSES,D10201372.E78,Neoplastic Cell Transformation,,neop
+D10208429.P1,D10208429.E2,EIF1 gene,,gngm,INTERACTS_WITH,D10208429.E4,Hepatitis B Antigens,,imft
+D10208429.P2,D10208429.E4,Hepatitis B Antigens,,imft,ASSOCIATED_WITH,D10208429.E5,Hepatocarcinogenesis,,neop
+D10208429.P3,D10208429.E16,Cells,,cell,LOCATION_OF,D10208429.E6,hepatitis B virus X protein,,aapp
+D10208429.P4,D10208429.E8,Liver carcinoma,,neop,PROCESS_OF,D10208429.E13,Gene Expression,,genf
+D10208429.P5,D10208429.E21,Homologous Gene,,gngm,PART_OF,D10208429.E20,Homo sapiens,,humn
+D10208429.P6,D10208429.E26,Hep G2 Cells,,cell,LOCATION_OF,D10208429.E22,EIF1 gene,,aapp
+D10208429.P7,D10208429.E25,Antigens,,imft,INHIBITS,D10208429.E24,Peptide Initiation Factors,,gngm
+D10208429.P8,D10208429.E27,EIF1 gene,,gngm,PART_OF,D10208429.E28,Liver,,bpoc
+D10208429.P9,D10208429.E32,Liver carcinoma,,neop,PROCESS_OF,D10208429.E31,Patients,,humn
+D10208429.P10,D10208429.E34,EIF1 gene,,gngm,DISRUPTS,D10208429.E36,cell growth,,celf
+D10208429.P11,D10208429.E39,Agar,,orch,DISRUPTS,D10208429.E40,Neoplasms,,neop
+D10208429.P12,D10208429.E40,Neoplasms,,neop,PROCESS_OF,D10208429.E42,"Mice, Nude",,mamm
+D10208429.P13,D10208429.E44,Antigens,,imft,INHIBITS,D10208429.E43,EIF1 gene,,gngm
+D10209305.P1,D10209305.E7,Cytotoxic Chemotherapy,,topp,ISA,D10209305.E9,Therapeutic procedure,,topp
+D10209305.P2,D10209305.E7,Cytotoxic Chemotherapy,,topp,TREATS,D10209305.E10,Liver carcinoma,,neop
+D10209305.P3,D10209305.E15,Signal Transduction Pathways,,moft,AFFECTS,D10209305.E16,Growth,,orgf
+D10209305.P4,D10209305.E20,Cyclic AMP,,phsu,CAUSES,D10209305.E28,Apoptosis,,celf
+D10209305.P5,D10209305.E20,Cyclic AMP,,phsu,CAUSES,D10209305.E22,growth regulator,,celf
+D10209305.P6,D10209305.E41,8-Bromo Cyclic Adenosine Monophosphate,,nnon,INTERACTS_WITH,D10209305.E43,Level,,phsu
+D10209305.P7,D10209305.E42,Bucladesine,,nnon,INTERACTS_WITH,D10209305.E43,Level,,phsu
+D10209305.P8,D10209305.E51,Cyclic AMP,,bacs,AUGMENTS,D10209305.E54,Down-Regulation,,moft
+D10209305.P9,D10209305.E51,Cyclic AMP,,bacs,AUGMENTS,D10209305.E59,cyclin-dependent kinase activity,,moft
+D10209305.P10,D10209305.E56,Proteins,,aapp,INHIBITS,D10209305.E55,Proliferating Cell Nuclear Antigen,,aapp
+D10209305.P11,D10209305.E64,Pathogenesis,,patf,ASSOCIATED_WITH,D10209305.E62,Proliferating Cell Nuclear Antigen,,gngm
+D10210639.P1,D10210639.E1,"INSR protein, human",,aapp,ASSOCIATED_WITH,D10210639.E4,Liver diseases,,dsyn
+D10210639.P2,D10210639.E12,adapter protein,,aapp,PART_OF,D10210639.E11,Protoplasm,,celc
+D10210639.P3,D10210639.E13,IRS1 gene,,gngm,STIMULATES,D10210639.E12,adapter protein,,gngm
+D10210639.P4,D10210639.E28,Liver normal,,fndg,PROCESS_OF,D10210639.E27,Homo sapiens,,humn
+D10210639.P5,D10210639.E36,Assay,,lbpr,USES,D10210639.E39,DNA Probes,,irda
+D10210639.P6,D10210639.E43,Immunoblotting,,lbpr,METHOD_OF,D10210639.E42,"Protein concentration, test strip measurement",,lbpr
+D10210639.P7,D10210639.E59,Body tissue,,tisu,LOCATION_OF,D10210639.E57,Insulin Receptor,,aapp
+D10210639.P8,D10210639.E63,"Protein concentration, test strip measurement",,lbpr,USES,D10210639.E62,Insulin Receptor,,aapp
+D10210639.P9,D10210639.E63,"Protein concentration, test strip measurement",,lbpr,DIAGNOSES,D10210639.E65,Liver carcinoma,,neop
+D10210639.P10,D10210639.E67,IRS1 gene,,gngm,AUGMENTS,D10210639.E68,Cirrhosis,,dsyn
+D10210639.P11,D10210639.E74,Insulin Receptor,,aapp,INTERACTS_WITH,D10210639.E84,Binding Sites,,rcpt
+D10210639.P12,D10210639.E87,insulin receptor substrate 1 protein,,aapp,ASSOCIATED_WITH,D10210639.E89,Liver carcinoma,,neop
+D10210639.P13,D10210639.E90,IRS1 gene,,gngm,AUGMENTS,D10210639.E92,Cirrhosis,,dsyn
+D10212000.P1,D10212000.E5,PROC wt Allele,,gngm,ASSOCIATED_WITH,D10212000.E6,Intrahepatic Cholangiocarcinoma,,neop
+D10212000.P2,D10212000.E11,Carcinogenicity,,neop,MANIFESTATION_OF,D10212000.E12,Intrahepatic Cholangiocarcinoma,,neop
+D10212000.P3,D10212000.E10,Liver,,bpoc,LOCATION_OF,D10212000.E9,"Neoplasms, Second Primary",,neop
+D10212000.P4,D10212000.E67,Intrahepatic Cholangiocarcinoma,,neop,ISA,D10212000.E63,Neoplasms,,neop
+D10212000.P5,D10212000.E64,TP53 gene,,gngm,ASSOCIATED_WITH,D10212000.E67,Intrahepatic Cholangiocarcinoma,,neop
+D10212000.P6,D10212000.E63,Neoplasms,,neop,OCCURS_IN,D10212000.E73,Intrahepatic Cholangiocarcinoma,,neop
+D10212000.P7,D10212000.E79,TP53 gene,,aapp,AFFECTS,D10212000.E82,Growth pattern,,fndg
+D10223233.P1,D10223233.E1,Transcriptional Activation,,genf,PROCESS_OF,D10223233.E5,Homo sapiens,,humn
+D10223233.P2,D10223233.E4,Berberine,,orch,STIMULATES,D10223233.E3,Membrane Transport Proteins,,gngm
+D10223233.P3,D10223233.E6,Murine,,orch,STIMULATES,D10223233.E3,Membrane Transport Proteins,,gngm
+D10223233.P4,D10223233.E13,Coptis chinensis,,plnt,LOCATION_OF,D10223233.E12,Alkaloids,,orch
+D10223233.P5,D10223233.E12,Alkaloids,,orch,TREATS,D10223233.E16,Inflammation,,patf
+D10223233.P6,D10223233.E19,Chinese herbal medicine,,topp,USES,D10223233.E21,Pharmaceutical Preparations,,phsu
+D10223233.P7,D10223233.E29,alpha-Fetoproteins,,aapp,PART_OF,D10223233.E32,Hep G2 Cells,,cell
+D10223233.P8,D10223233.E34,Membrane Transport Proteins,,aapp,PART_OF,D10223233.E36,Hep G2 Cells,,cell
+D10223233.P9,D10223233.E47,Berberine,,phsu,TREATS,D10223233.E44,Homo sapiens,,humn
+D10223233.P10,D10223233.E58,hepatoma cell,,cell,LOCATION_OF,D10223233.E53,Rhodamine 123,,orch
+D10223233.P11,D10223233.E64,human cell line,,cell,LOCATION_OF,D10223233.E60,Berberine,,orch
+D10223233.P12,D10223233.E71,Rhodamine 123,,orch,DISRUPTS,D10223233.E74,hepatoma cell,,cell
+D10223233.P13,D10223233.E79,hepatoma cell,,cell,LOCATION_OF,D10223233.E76,Berberine,,orch
+D10223233.P14,D10223233.E81,Therapeutic procedure,,topp,USES,D10223233.E83,Berberine,,phsu
+D10232599.P1,D10232599.E2,Alpha 1,,aapp,PART_OF,D10232599.E1,Homo sapiens,,humn
+D10232599.P2,D10232599.E10,Cells,,cell,LOCATION_OF,D10232599.E8,Secondary malignant neoplasm of liver,,neop
+D10232599.P3,D10232599.E4,DNA Sequence,,nusq,DISRUPTS,D10232599.E7,Tissue Adhesions,,patf
+D10232599.P4,D10232599.E4,DNA Sequence,,nusq,DISRUPTS,D10232599.E8,Secondary malignant neoplasm of liver,,neop
+D10232599.P5,D10232599.E22,CA-19-9 Antigen,,imft,ASSOCIATED_WITH,D10232599.E25,Adenocarcinoma,,neop
+D10232599.P6,D10232599.E22,CA-19-9 Antigen,,imft,ISA,D10232599.E23,Antigens,,imft
+D10232599.P7,D10232599.E18,Selectins,,aapp,ASSOCIATED_WITH,D10232599.E25,Adenocarcinoma,,neop
+D10232599.P8,D10232599.E18,Selectins,,aapp,ISA,D10232599.E23,Antigens,,imft
+D10232599.P9,D10232599.E23,Antigens,,imft,ASSOCIATED_WITH,D10232599.E25,Adenocarcinoma,,neop
+D10232599.P10,D10232599.E29,Polysaccharides,,orch,INHIBITS,D10232599.E31,Alpha 1,,gngm
+D10232599.P11,D10232599.E47,Alpha 1,,aapp,PART_OF,D10232599.E46,"Lewis, Rat Strain",,mamm
+D10232599.P12,D10232599.E44,DNA Sequence,,nusq,DISRUPTS,D10232599.E42,Cell Adhesion,,celf
+D10232599.P13,D10232599.E64,Spleen,,bpoc,PART_OF,D10232599.E65,"Mice, Nude",,mamm
+D10232599.P14,D10232599.E75,DNA Sequence,,nusq,DISRUPTS,D10232599.E73,Secondary carcinoma,,neop
+D10232599.P15,D10232599.E77,Fucosyltransferase,,aapp,INTERACTS_WITH,D10232599.E79,Selectins,,aapp
+D10232614.P1,D10232614.E1,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp,PART_OF,D10232614.E2,hepatoma cell,,cell
+D10232614.P2,D10232614.E12,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp,INTERACTS_WITH,D10232614.E13,Fucose,,orch
+D10232614.P3,D10232614.E13,Fucose,,orch,COEXISTS_WITH,D10232614.E14,Polysaccharides,,orch
+D10232614.P4,D10232614.E20,Liver neoplasms,,neop,PROCESS_OF,D10232614.E19,Homo sapiens,,humn
+D10232614.P5,D10232614.E18,Hepatocarcinogenesis,,neop,PROCESS_OF,D10232614.E17,Rattus norvegicus,,mamm
+D10232614.P6,D10232614.E15,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp,AUGMENTS,D10232614.E20,Liver neoplasms,,neop
+D10232614.P7,D10232614.E15,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp,AUGMENTS,D10232614.E18,Hepatocarcinogenesis,,neop
+D10232614.P8,D10232614.E23,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp,ASSOCIATED_WITH,D10232614.E24,Liver neoplasms,,neop
+D10232614.P9,D10232614.E27,human cell line,,cell,PRODUCES,D10232614.E29,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp
+D10232614.P10,D10232614.E40,Liver,,bpoc,LOCATION_OF,D10232614.E38,Neoplasms,,neop
+D10232614.P11,D10232614.E70,Glycoproteins,,aapp,DISRUPTS,D10232614.E75,Secondary Neoplasm,,neop
+D10232614.P12,D10232614.E82,hepatoma cell,,cell,LOCATION_OF,D10232614.E81,Polysaccharides,,orch
+D10321688.P1,D10321688.E4,TP53 gene,,gngm,AFFECTS,D10321688.E5,Apoptosis,,celf
+D10321688.P2,D10321688.E12,Cultured Cell Line,,cell,LOCATION_OF,D10321688.E11,Proto-Oncogene Proteins c-myc,,aapp
+D10321688.P3,D10321688.E11,Proto-Oncogene Proteins c-myc,,aapp,DISRUPTS,D10321688.E9,Anger,,menp
+D10321688.P4,D10321688.E20,human cell line,,cell,LOCATION_OF,D10321688.E16,Anaplastic Oligodendroglioma,,neop
+D10321688.P5,D10321688.E52,Cells,,cell,LOCATION_OF,D10321688.E50,Agar,,orch
+D10321688.P6,D10321688.E50,Agar,,orch,DISRUPTS,D10321688.E53,Cells,,cell
+D10321688.P7,D10321688.E65,"Genes, Regulator",,gngm,INHIBITS,D10321688.E64,CDC25A gene,,gngm
+D10321688.P8,D10321688.E80,,,gngm,AFFECTS,D10321688.E82,cell growth,,celf
+D10321688.P9,D10321688.E80,,,gngm,AFFECTS,D10321688.E83,Apoptosis,,celf
+D10340381.P1,D10340381.E5,Colorectal Cancer,,neop,PROCESS_OF,D10340381.E4,Homo sapiens,,humn
+D10340381.P2,D10340381.E24,Hereditary Nonpolyposis Colorectal Cancer,,neop,PROCESS_OF,D10340381.E25,Patients,,humn
+D10340381.P3,D10340381.E16,SMAD4 gene,,gngm,ASSOCIATED_WITH,D10340381.E18,Colorectal Neoplasms,,neop
+D10340381.P4,D10340381.E17,SMAD2 gene,,gngm,ASSOCIATED_WITH,D10340381.E18,Colorectal Neoplasms,,neop
+D10340381.P5,D10340381.E26,Mutation,,genf,COEXISTS_WITH,D10340381.E29,Signal Transduction,,celf
+D10340381.P6,D10340381.E53,Neoplasms,,neop,COEXISTS_WITH,D10340381.E56,Adenoma,,neop
+D10340381.P7,D10340381.E53,Neoplasms,,neop,COEXISTS_WITH,D10340381.E58,Carcinoma,,neop
+D10340381.P8,D10340381.E53,Neoplasms,,neop,COEXISTS_WITH,D10340381.E60,Primary Carcinoma,,neop
+D10340381.P9,D10340381.E53,Neoplasms,,neop,COEXISTS_WITH,D10340381.E63,Primary Carcinoma,,neop
+D10340381.P10,D10340381.E54,SMAD4 gene,,gngm,PART_OF,D10340381.E53,Neoplasms,,neop
+D10340381.P11,D10340381.E73,SMAD4 gene,,gngm,PART_OF,D10340381.E72,Secondary carcinoma,,neop
+D10340381.P12,D10340381.E77,Secondary carcinoma,,neop,PROCESS_OF,D10340381.E79,Patients,,humn
+D10340381.P13,D10340381.E85,One,,qnco,ISA,D10340381.E83,Result,,ftcn
+D10340381.P14,D10340381.E84,SMAD4 gene,,gngm,ASSOCIATED_WITH,D10340381.E93,Carcinogenesis,,neop
+D10340391.P1,D10340391.E2,PTEN Gene Inactivation,,comd,COEXISTS_WITH,D10340391.E3,Liver carcinoma,,neop
+D10340391.P2,D10340391.E10,Malignant Neoplasms,,neop,PROCESS_OF,D10340391.E9,Homo sapiens,,humn
+D10340391.P3,D10340391.E20,Liver carcinoma,,neop,ISA,D10340391.E29,Malignant Neoplasms,,neop
+D10340391.P4,D10340391.E20,Liver carcinoma,,neop,ISA,D10340391.E25,Malignant Neoplasms,,neop
+D10340391.P5,D10340391.E51,Exons,,bacs,PART_OF,D10340391.E52,TP53 gene,,aapp
+D10340391.P6,D10340391.E69,Superior segmental bronchus,,bpoc,LOCATION_OF,D10340391.E66,PTEN gene,,aapp
+D10353384.P1,D10353384.E1,Mutation,,genf,PROCESS_OF,D10353384.E3,"Neoplasms, Experimental",,emod
+D10353384.P2,D10353384.E3,"Neoplasms, Experimental",,neop,PART_OF,D10353384.E4,Rodent,,mamm
+D10353384.P3,D10353384.E5,Carcinogenesis,,neop,PROCESS_OF,D10353384.E6,Rodent,,mamm
+D10353384.P4,D10353384.E20,Chemicals,,chem,CAUSES,D10353384.E19,Carcinogen effect,,inpo
+D10353384.P5,D10353384.E42,Lung Neoplasms,,neop,AFFECTS,D10353384.E54,genotoxicity,,comd
+D10353384.P6,D10353384.E81,methylene chloride,,orch,AUGMENTS,D10353384.E82,Cells,,cell
+D10353384.P7,D10353384.E80,Neoplasms,,neop,CAUSES,D10353384.E89,Carcinogenesis,,neop
+D10353384.P8,D10353384.E93,Neoplasms,,neop,PROCESS_OF,D10353384.E92,Rodent,,mamm
+D10353384.P9,D10353384.E99,Homologous Gene,,gngm,PART_OF,D10353384.E98,Homo sapiens,,humn
+D10353384.P10,D10353384.E99,Homologous Gene,,gngm,PART_OF,D10353384.E93,Neoplasms,,neop
+D10353384.P11,D10353384.E103,Carcinogenesis,,neop,PROCESS_OF,D10353384.E104,Rodent,,mamm
+D10374394.P1,D10374394.E4,Growth Factor,,aapp,AFFECTS,D10374394.E5,Liver carcinoma,,neop
+D10374394.P2,D10374394.E2,Oncogenes,,aapp,AFFECTS,D10374394.E5,Liver carcinoma,,neop
+D10374394.P3,D10374394.E3,Tumor Suppressor Genes,,aapp,AFFECTS,D10374394.E5,Liver carcinoma,,neop
+D10374394.P4,D10374394.E29,TP53 gene,,gngm,ASSOCIATED_WITH,D10374394.E31,Liver carcinoma,,neop
+D10374394.P5,D10374394.E30,CDKN2A gene,,gngm,ASSOCIATED_WITH,D10374394.E31,Liver carcinoma,,neop
+D10374394.P6,D10374394.E41,Recurrent Malignant Neoplasm,,neop,MANIFESTATION_OF,D10374394.E44,Liver carcinoma,,neop
+D10374394.P7,D10374394.E43,Secondary Neoplasm,,neop,MANIFESTATION_OF,D10374394.E44,Liver carcinoma,,neop
+D10374394.P8,D10374394.E46,HRAS gene,,gngm,DISRUPTS,D10374394.E48,tumor growth,,neop
+D10374394.P9,D10374394.E46,HRAS gene,,gngm,DISRUPTS,D10374394.E49,Secondary Neoplasm,,neop
+D10374394.P10,D10374394.E50,Liver carcinoma,,neop,PROCESS_OF,D10374394.E51,"Mice, Nude",,mamm
+D10374394.P11,D10374394.E57,Epidermal Growth Factor Receptor,,aapp,COEXISTS_WITH,D10374394.E58,Transforming Growth Factor alpha,,gngm
+D10374394.P12,D10374394.E58,Transforming Growth Factor alpha,,aapp,ASSOCIATED_WITH,D10374394.E60,Recurrent Malignant Neoplasm,,neop
+D10374394.P13,D10374394.E71,Liver carcinoma,,neop,PROCESS_OF,D10374394.E72,Patients,,humn
+D10374394.P14,D10374394.E77,Growth Factor,,aapp,ASSOCIATED_WITH,D10374394.E79,Liver carcinoma,,neop
+D10374394.P15,D10374394.E95,Recurrent Malignant Neoplasm,,neop,MANIFESTATION_OF,D10374394.E96,Liver carcinoma,,neop
+D10374394.P16,D10374394.E97,HRAS gene,,aapp,TREATS,D10374394.E100,Recurrent Malignant Neoplasm,,neop
+D10374394.P17,D10374394.E97,HRAS gene,,aapp,TREATS,D10374394.E101,Secondary Neoplasm,,neop
+D10374394.P18,D10374394.E105,Liver carcinoma,,neop,PROCESS_OF,D10374394.E106,Patients,,humn
+D10381126.P1,D10381126.E15,Malignant Neoplasms,,neop,PROCESS_OF,D10381126.E14,Homo sapiens,,humn
+D10381126.P2,D10381126.E18,APC gene,,gngm,ASSOCIATED_WITH,D10381126.E19,Hepatocarcinogenesis,,neop
+D10381126.P3,D10381126.E44,Polymerase Chain Reaction,,mbrt,METHOD_OF,D10381126.E43,polymorphism analysis,,diap
+D10381126.P4,D10381126.E58,Liver carcinoma,,neop,PROCESS_OF,D10381126.E57,Homo sapiens,,humn
+D10381126.P5,D10381126.E54,,,gngm,CAUSES,D10381126.E58,Liver carcinoma,,neop
+D10381126.P6,D10381126.E53,PROC wt Allele,,gngm,CAUSES,D10381126.E58,Liver carcinoma,,neop
+D10381922.P1,D10381922.E5,Liver carcinoma,,neop,PROCESS_OF,D10381922.E4,Patients,,humn
+D10381922.P2,D10381922.E4,Patients,,humn,LOCATION_OF,D10381922.E1,TP53 gene,,aapp
+D10381922.P3,D10381922.E1,TP53 gene,,gngm,ASSOCIATED_WITH,D10381922.E6,Hereditary hemochromatosis,,dsyn
+D10381922.P4,D10381922.E12,Aflatoxin B1,,hops,CAUSES,D10381922.E13,Point Mutation,,comd
+D10381922.P5,D10381922.E13,Point Mutation,,comd,PROCESS_OF,D10381922.E16,Persons,,humn
+D10381922.P6,D10381922.E27,Liver carcinoma,,neop,PROCESS_OF,D10381922.E26,Patients,,humn
+D10381922.P7,D10381922.E22,TP53 gene,,gngm,ASSOCIATED_WITH,D10381922.E24,Neoplastic Cell Transformation,,neop
+D10381922.P8,D10381922.E36,Patients,,humn,LOCATION_OF,D10381922.E34,HCCS gene,,aapp
+D10381922.P9,D10381922.E33,TP53 gene,,gngm,COEXISTS_WITH,D10381922.E34,HCCS gene,,gngm
+D10381922.P10,D10381922.E43,Patients,,humn,LOCATION_OF,D10381922.E39,HCCS gene,,aapp
+D10381922.P12,D10381922.E75,HCCS gene,,gngm,PART_OF,D10381922.E74,Northern European,,humn
+D10381922.P13,D10381922.E70,TP53 gene,,gngm,compared_with,D10381922.E75,HCCS gene,,gngm
+D10381922.P14,D10381922.E70,TP53 gene,,gngm,higher_than,D10381922.E75,HCCS gene,,gngm
+D10383909.P1,D10383909.E4,3-nitrotyrosine,,aapp,INTERACTS_WITH,D10383909.E6,Diethylnitrosamine,,hops
+D10383909.P2,D10383909.E3,"NOS2A protein, human",,aapp,INTERACTS_WITH,D10383909.E6,Diethylnitrosamine,,hops
+D10383909.P3,D10383909.E6,Diethylnitrosamine,,hops,CAUSES,D10383909.E5,Rat Hepatic Neoplasm,,neop
+D10383909.P4,D10383909.E4,3-nitrotyrosine,,aapp,ASSOCIATED_WITH,D10383909.E5,Rat Hepatic Neoplasm,,neop
+D10383909.P5,D10383909.E3,"NOS2A protein, human",,aapp,ASSOCIATED_WITH,D10383909.E5,Rat Hepatic Neoplasm,,neop
+D10383909.P6,D10383909.E10,Hepatitis B,,dsyn,COEXISTS_WITH,D10383909.E8,Liver and Intrahepatic Biliary Tract Carcinoma,,neop
+D10383909.P7,D10383909.E10,Hepatitis B,,dsyn,ISA,D10383909.E9,Chronic inflammation,,patf
+D10383909.P8,D10383909.E8,Liver and Intrahepatic Biliary Tract Carcinoma,,neop,PROCESS_OF,D10383909.E7,Homo sapiens,,humn
+D10383909.P9,D10383909.E9,Chronic inflammation,,patf,COEXISTS_WITH,D10383909.E8,Liver and Intrahepatic Biliary Tract Carcinoma,,neop
+D10383909.P10,D10383909.E13,Chronic inflammation,,patf,COEXISTS_WITH,D10383909.E15,Malignant Neoplasms,,neop
+D10383909.P11,D10383909.E22,Inflammation,,patf,PREDISPOSES,D10383909.E23,Tumor Promotion,,neop
+D10383909.P12,D10383909.E28,Peroxynitrite,,bacs,STIMULATES,D10383909.E34,Diethylnitrosamine,,hops
+D10383909.P13,D10383909.E46,Liver carcinoma,,neop,ISA,D10383909.E45,Neoplasms,,neop
+D10383909.P14,D10383909.E46,Liver carcinoma,,neop,PART_OF,D10383909.E47,Trabecular substance of bone,,tisu
+D10383909.P15,D10383909.E58,Epithelium,,tisu,PART_OF,D10383909.E59,Bile duct adenoma,,neop
+D10383909.P16,D10383909.E58,Epithelium,,tisu,PART_OF,D10383909.E61,Liver carcinoma,,neop
+D10383909.P17,D10383909.E57,Muscle Cells,,cell,LOCATION_OF,D10383909.E53,"NOS2A protein, human",,aapp
+D10383909.P18,D10383909.E54,oval cell,,cell,LOCATION_OF,D10383909.E53,"NOS2A protein, human",,aapp
+D10383909.P19,D10383909.E79,Bile duct adenoma,,neop,COEXISTS_WITH,D10383909.E80,Neoplasms,,neop
+D10383909.P20,D10383909.E63,Cytoplasm,,celc,LOCATION_OF,D10383909.E62,3-nitrotyrosine,,aapp
+D10383909.P21,D10383909.E67,Hepatocyte,,cell,LOCATION_OF,D10383909.E62,3-nitrotyrosine,,aapp
+D10383909.P22,D10383909.E93,Body tissue,,tisu,PART_OF,D10383909.E92,Neoplasms,,neop
+D10383909.P23,D10383909.E84,Carcinogens,,hops,STIMULATES,D10383909.E87,Peroxynitrite,,bacs
+D10383909.P24,D10383909.E84,Carcinogens,,hops,STIMULATES,D10383909.E86,"NOS2A protein, human",,gngm
+D10383909.P25,D10383909.E108,Body tissue,,tisu,PART_OF,D10383909.E107,Neoplasms,,neop
+D10383909.P26,D10383909.E96,"NOS2A protein, human",,aapp,CAUSES,D10383909.E97,Tissue damage,,inpo
+D10383909.P27,D10383909.E102,Cells,,cell,LOCATION_OF,D10383909.E100,"NOS2A protein, human",,aapp
+D10383909.P28,D10383909.E106,Capillary vessel,,bpoc,LOCATION_OF,D10383909.E100,"NOS2A protein, human",,aapp
+D10385405.P1,D10385405.E5,Oligodeoxyribonucleotides,,nnon,AFFECTS,D10385405.E3,autocrine,,ortf
+D10385405.P2,D10385405.E10,Transforming Growth Factor beta,,aapp,DISRUPTS,D10385405.E11,hepatocyte proliferation,,celf
+D10385405.P3,D10385405.E8,activin A,,horm,PREVENTS,D10385405.E13,Liver mass,,dsyn
+D10385405.P4,D10385405.E16,activin A,,aapp,AFFECTS,D10385405.E18,Growth,,orgf
+D10385405.P5,D10385405.E28,"endothelial PAS domain protein 1, human",,aapp,PART_OF,D10385405.E27,human cell line,,cell
+D10385405.P6,D10385405.E25,activin A,,aapp,COEXISTS_WITH,D10385405.E28,"endothelial PAS domain protein 1, human",,gngm
+D10385405.P7,D10385405.E22,Aim,,phsu,AFFECTS,D10385405.E30,autocrine,,ortf
+D10385405.P8,D10385405.E44,Cells,,cell,LOCATION_OF,D10385405.E43,activin A,,aapp
+D10385645.P1,D10385645.E4,Malignant neoplasm of liver,,neop,PROCESS_OF,D10385645.E3,Homo sapiens,,humn
+D10385645.P2,D10385645.E2,beta-Chemokines,,aapp,ASSOCIATED_WITH,D10385645.E4,Malignant neoplasm of liver,,neop
+D10385645.P3,D10385645.E9,chemokine,,aapp,AFFECTS,D10385645.E12,Cell Adhesion,,celf
+D10385645.P4,D10385645.E9,chemokine,,aapp,AFFECTS,D10385645.E13,Transendothelial Migration,,ortf
+D10385645.P5,D10385645.E31,Liver neoplasms,,neop,PROCESS_OF,D10385645.E30,Homo sapiens,,humn
+D10385645.P6,D10385645.E29,Lymphocyte,,cell,LOCATION_OF,D10385645.E27,chemokine,,aapp
+D10385645.P7,D10385645.E21,Chemokine (C-C Motif) Ligand 4,,aapp,AFFECTS,D10385645.E23,T-Lymphocyte,,cell
+D10385645.P8,D10385645.E44,allogeneic lymphocytes,,imft,INTERACTS_WITH,D10385645.E38,Ribonucleases,,aapp
+D10385645.P9,D10385645.E55,CXC Chemokines,,aapp,INTERACTS_WITH,D10385645.E58,Chemokine (C-X-C Motif) Receptor 3,,aapp
+D10385645.P10,D10385645.E74,"Endothelium, Vascular",,tisu,LOCATION_OF,D10385645.E73,chemokine,,aapp
+D10385645.P11,D10385645.E80,Endothelium of sinusoid,,tisu,LOCATION_OF,D10385645.E73,chemokine,,aapp
+D10385645.P12,D10385645.E87,Hep G2 Cells,,cell,PRODUCES,D10385645.E89,Chemotactic Factors,,bacs
+D10385645.P13,D10385645.E97,Liver neoplasms,,neop,PROCESS_OF,D10385645.E96,Homo sapiens,,humn
+D10385645.P14,D10385645.E97,Liver neoplasms,,neop,PRODUCES,D10385645.E98,receptor,,aapp
+D10385645.P15,D10385645.E107,Endothelium,,tisu,PART_OF,D10385645.E106,Neoplasms,,neop
+D10385645.P16,D10385645.E101,chemokine,,gngm,PART_OF,D10385645.E103,Liver carcinoma,,neop
+D10385645.P17,D10385645.E107,Endothelium,,tisu,PRODUCES,D10385645.E105,Small Inducible Cytokine B9,,aapp
+D10385645.P18,D10385645.E112,Hep G2 Cells,,cell,PRODUCES,D10385645.E113,Lymphocyte chemotactic factor,,aapp
+D10389981.P1,D10389981.E2,MDM2 gene,,gngm,ASSOCIATED_WITH,D10389981.E5,Liver carcinoma,,neop
+D10389981.P2,D10389981.E4,FHIT gene,,gngm,ASSOCIATED_WITH,D10389981.E6,Focal Nodular Hyperplasia,,dsyn
+D10389981.P3,D10389981.E4,FHIT gene,,gngm,ASSOCIATED_WITH,D10389981.E5,Liver carcinoma,,neop
+D10389981.P4,D10389981.E3,GAGE1 wt Allele,,gngm,ASSOCIATED_WITH,D10389981.E6,Focal Nodular Hyperplasia,,dsyn
+D10389981.P5,D10389981.E3,GAGE1 wt Allele,,gngm,ASSOCIATED_WITH,D10389981.E5,Liver carcinoma,,neop
+D10389981.P6,D10389981.E2,MDM2 gene,,gngm,ASSOCIATED_WITH,D10389981.E6,Focal Nodular Hyperplasia,,dsyn
+D10389981.P7,D10389981.E14,Malignant Neoplasms,,neop,PROCESS_OF,D10389981.E13,Homo sapiens,,humn
+D10389981.P8,D10389981.E9,Tumor Suppressor Genes,,gngm,ASSOCIATED_WITH,D10389981.E14,Malignant Neoplasms,,neop
+D10389981.P9,D10389981.E11,"Genes, Neoplasm",,gngm,ASSOCIATED_WITH,D10389981.E14,Malignant Neoplasms,,neop
+D10389981.P10,D10389981.E26,Hepatocyte,,cell,PART_OF,D10389981.E25,Homo sapiens,,humn
+D10389981.P11,D10389981.E45,Exons,,bacs,ASSOCIATED_WITH,D10389981.E46,Liver carcinoma,,neop
+D10389981.P12,D10389981.E51,GAGE1 wt Allele,,gngm,ASSOCIATED_WITH,D10389981.E53,Liver carcinoma,,neop
+D10389981.P13,D10389981.E64,MDM2 gene,,gngm,ASSOCIATED_WITH,D10389981.E66,Focal Nodular Hyperplasia,,dsyn
+D10389981.P14,D10389981.E63,GAGE1 wt Allele,,gngm,ASSOCIATED_WITH,D10389981.E66,Focal Nodular Hyperplasia,,dsyn
+D10395325.P1,D10395325.E2,HPSE gene,,gngm,PART_OF,D10395325.E1,Mammals,,mamm
+D10395325.P2,D10395325.E3,gene cloning,,lbpr,DIAGNOSES,D10395325.E5,Tumor Progression,,neop
+D10395325.P3,D10395325.E3,gene cloning,,lbpr,DIAGNOSES,D10395325.E6,Secondary Neoplasm,,neop
+D10395325.P4,D10395325.E21,Liver neoplasms,,neop,PROCESS_OF,D10395325.E20,Homo sapiens,,humn
+D10395325.P5,D10395325.E52,Breast,,bpoc,PART_OF,D10395325.E51,Homo sapiens,,humn
+D10395325.P6,D10395325.E48,Proteins,,aapp,PART_OF,D10395325.E49,Cultured Cell Line,,cell
+D10395325.P7,D10395325.E46,HPSE gene,,aapp,PART_OF,D10395325.E49,Cultured Cell Line,,cell
+D10395325.P8,D10395325.E68,HPSE gene,,gngm,PART_OF,D10395325.E67,Mammals,,mamm
+D10395325.P9,D10395325.E68,HPSE gene,,gngm,ASSOCIATED_WITH,D10395325.E70,Neoplasm Metastasis,,neop
+D10395325.P10,D10395325.E75,Early Diagnosis,,diap,USES,D10395325.E74,Molecular Probes,,irda
+D10395376.P1,D10395376.E9,gene therapy,,topp,TREATS,D10395376.E10,Liver carcinoma,,neop
+D10395376.P2,D10395376.E22,EGR1 gene,,gngm,ISA,D10395376.E21,Genes,,gngm
+D10395376.P3,D10395376.E34,EGR1 gene,,gngm,ISA,D10395376.E33,Genes,,gngm
+D10395376.P4,D10395376.E34,EGR1 gene,,gngm,PART_OF,D10395376.E36,Liver carcinoma,,neop
+D10395376.P5,D10395376.E44,EGR1 gene,,gngm,ISA,D10395376.E43,Genes,,gngm
+D10395376.P6,D10395376.E51,MIR7-3HG gene,,gngm,PART_OF,D10395376.E50,human cell line,,cell
+D10395376.P7,D10395376.E54,Assay,,lbpr,USES,D10395376.E53,Luciferases,,aapp
+D10395376.P8,D10395376.E48,Hepatocyte,,cell,LOCATION_OF,D10395376.E52,,,aapp
+D10395376.P9,D10395376.E48,Hepatocyte,,cell,LOCATION_OF,D10395376.E44,EGR1 gene,,aapp
+D10395376.P10,D10395376.E48,Hepatocyte,,cell,LOCATION_OF,D10395376.E51,MIR7-3HG gene,,aapp
+D10395376.P11,D10395376.E58,EGR1 gene,,gngm,ISA,D10395376.E57,Genes,,gngm
+D10395376.P12,D10395376.E58,EGR1 gene,,gngm,AUGMENTS,D10395376.E63,Cultured Cell Line,,cell
+D10395376.P13,D10395376.E90,Combined Modality Therapy,,topp,USES,D10395376.E92,Ganciclovir,,phsu
+D10395376.P14,D10395376.E101,Liver neoplasms,,neop,PROCESS_OF,D10395376.E102,"Mice, Nude",,mamm
+D10395376.P15,D10395376.E106,Neoplasms,,neop,PROCESS_OF,D10395376.E111,Mus,,mamm
+D10395376.P16,D10395376.E115,Neoplasms,,neop,PROCESS_OF,D10395376.E117,Mus,,mamm
+D10395376.P17,D10395376.E126,Therapeutic procedure,,topp,USES,D10395376.E125,HSV-Tk Gene,,aapp
+D10397245.P1,D10397245.E2,Immunotherapy,,topp,USES,D10397245.E1,AFP gene,,aapp
+D10397245.P2,D10397245.E2,Immunotherapy,,topp,TREATS,D10397245.E3,Liver carcinoma,,neop
+D10397245.P3,D10397245.E6,Liver carcinoma,,neop,PROCESS_OF,D10397245.E5,Homo sapiens,,humn
+D10397245.P4,D10397245.E6,Liver carcinoma,,neop,PRODUCES,D10397245.E7,AFP gene,,aapp
+D10397245.P5,D10397245.E15,Dendritic Cells,,cell,PRODUCES,D10397245.E16,,,aapp
+D10397245.P6,D10397245.E28,Plasmids,,bacs,PART_OF,D10397245.E27,,,aapp
+D10397245.P7,D10397245.E40,gene therapy,,topp,TREATS,D10397245.E42,Disease,,dsyn
+D10402169.P1,D10402169.E29,Toxic Epidermal Necrolysis,,dsyn,PROCESS_OF,D10402169.E30,"Mice, Nude",,mamm
+D10402169.P2,D10402169.E25,Nodule,,acab,PART_OF,D10402169.E24,Neoplasms,,neop
+D10402169.P3,D10402169.E26,Injection procedure,,topp,PRECEDES,D10402169.E25,Nodule,,acab
+D10402169.P4,D10402169.E20,Human Herpesvirus 5 species,,virs,PROCESS_OF,D10402169.E30,"Mice, Nude",,mamm
+D10402169.P5,D10402169.E59,,,gngm,COEXISTS_WITH,D10402169.E64,HCCS gene,,gngm
+D10408872.P1,D10408872.E1,CYP1A1 gene,,gngm,ASSOCIATED_WITH,D10408872.E5,"Hepatitis B, Chronic",,dsyn
+D10408872.P2,D10408872.E6,Cigarette smoke (substance),,hops,PREDISPOSES,D10408872.E9,Liver carcinoma,,neop
+D10408872.P3,D10408872.E11,"CYP1A1 protein, human",,aapp,CONVERTS_TO,D10408872.E16,Carcinogens,,hops
+D10408872.P4,D10408872.E20,"CYP1A1 protein, human",,aapp,PREDISPOSES,D10408872.E22,Liver carcinoma,,neop
+D10408872.P5,D10408872.E27,"CYP1A1 protein, human",,aapp,ASSOCIATED_WITH,D10408872.E34,"Hepatitis B, Chronic",,dsyn
+D10408872.P6,D10408872.E46,"CYP1A1 protein, human",,aapp,PREDISPOSES,D10408872.E47,Liver carcinoma,,neop
+D10408872.P7,D10408872.E65,"CYP1A1 protein, human",,gngm,PRODUCES,D10408872.E62,Glutathione S-Transferase,,aapp
+D10408872.P8,D10408872.E58,Alleles,,gngm,PREDISPOSES,D10408872.E54,Liver carcinoma,,neop
+D10408872.P9,D10408872.E70,TMPRSS13 gene,,gngm,ASSOCIATED_WITH,D10408872.E74,Liver carcinoma,,neop
+D10408872.P10,D10408872.E78,"Polycyclic Hydrocarbons, Aromatic",,orch,PREDISPOSES,D10408872.E79,Liver carcinoma,,neop
+D10408872.P11,D10408872.E82,"CYP1A1 protein, human",,aapp,PREDISPOSES,D10408872.E79,Liver carcinoma,,neop
+D10408872.P12,D10408872.E89,"CYP1A1 protein, human",,aapp,AUGMENTS,D10408872.E96,Liver carcinoma,,neop
+D10411141.P1,D10411141.E7,Hepatocarcinogenesis,,neop,PROCESS_OF,D10411141.E6,Rattus norvegicus,,mamm
+D10411141.P2,D10411141.E18,FOXD3 gene,,gngm,ASSOCIATED_WITH,D10411141.E14,Hepatocarcinogenesis,,neop
+D10411141.P3,D10411141.E31,Hepatic,,blor,LOCATION_OF,D10411141.E32,Neoplasms,,neop
+D10411141.P4,D10411141.E26,Hepatocarcinogenesis,,neop,PROCESS_OF,D10411141.E25,Rattus norvegicus,,mamm
+D10411141.P5,D10411141.E30,Tumor Suppressor Genes,,gngm,ASSOCIATED_WITH,D10411141.E32,Neoplasms,,neop
+D10411141.P6,D10411141.E34,SSCP Analysis,,mbrt,USES,D10411141.E33,Polymerase Chain Reaction,,mbrt
+D10411141.P7,D10411141.E49,Liver carcinoma,,neop,PROCESS_OF,D10411141.E48,Homo sapiens,,humn
+D10411141.P8,D10411141.E47,Open Reading Frames,,gngm,ASSOCIATED_WITH,D10411141.E49,Liver carcinoma,,neop
+D10411141.P9,D10411141.E55,APC gene,,gngm,PART_OF,D10411141.E54,Rattus norvegicus,,mamm
+D10411141.P10,D10411141.E60,Tumorigenicity,,patf,PROCESS_OF,D10411141.E59,Rattus norvegicus,,mamm
+D10411141.P11,D10411141.E55,APC gene,,gngm,ASSOCIATED_WITH,D10411141.E60,Tumorigenicity,,patf
+D10411141.P12,D10411141.E67,Liver,,bpoc,LOCATION_OF,D10411141.E66,Neoplasms,,neop
+D10411141.P13,D10411141.E72,Hepatic,,blor,LOCATION_OF,D10411141.E66,Neoplasms,,neop
+D10411141.P14,D10411141.E107,Hepatocarcinogenesis,,neop,PROCESS_OF,D10411141.E106,Rattus norvegicus,,mamm
+D10411141.P15,D10411141.E110,TP53 gene,,gngm,COEXISTS_WITH,D10411141.E117,Genes,,gngm
+D10411141.P16,D10411141.E109,APC gene,,gngm,COEXISTS_WITH,D10411141.E117,Genes,,gngm
+D10411141.P17,D10411141.E108,"IGF2R protein, human",,gngm,COEXISTS_WITH,D10411141.E117,Genes,,gngm
+D10411141.P18,D10411141.E119,Hepatocarcinogenesis,,neop,PROCESS_OF,D10411141.E120,Rattus norvegicus,,mamm
+D10424738.P1,D10424738.E2,Carcinoembryonic Antigen,,aapp,ASSOCIATED_WITH,D10424738.E3,Secondary malignant neoplasm of liver,,neop
+D10424738.P2,D10424738.E27,Carcinoembryonic Antigen,,aapp,AFFECTS,D10424738.E28,Facilitation,,ortf
+D10424738.P3,D10424738.E55,Anchoring procedure,,topp,USES,D10424738.E54,GTPBP1 gene,,aapp
+D10424738.P4,D10424738.E48,"DNA, Complementary",,nnon,AFFECTS,D10424738.E41,Anabolism,,biof
+D10424738.P5,D10424738.E38,"DNA, Complementary",,nnon,AFFECTS,D10424738.E41,Anabolism,,biof
+D10424738.P6,D10424738.E48,"DNA, Complementary",,nnon,AFFECTS,D10424738.E49,Anabolism,,biof
+D10424738.P7,D10424738.E38,"DNA, Complementary",,nnon,AFFECTS,D10424738.E49,Anabolism,,biof
+D10424738.P8,D10424738.E63,Carcinoembryonic Antigen,,aapp,PART_OF,D10424738.E64,Cells,,cell
+D10424738.P9,D10424738.E63,Carcinoembryonic Antigen,,aapp,PART_OF,D10424738.E67,Membrane,,celc
+D10424738.P10,D10424738.E107,Injection procedure,,topp,METHOD_OF,D10424738.E102,Xenograft procedure,,topp
+D10428217.P1,D10428217.E22,"Genes, Essential",,gngm,INTERACTS_WITH,D10428217.E23,Tumor Promoters,,hops
+D10428217.P2,D10428217.E35,Adult,,humn,LOCATION_OF,D10428217.E28,AFP gene,,aapp
+D10428217.P3,D10428217.E32,Liver carcinoma,,neop,PROCESS_OF,D10428217.E31,Patients,,humn
+D10428217.P4,D10428217.E44,,,gngm,PART_OF,D10428217.E43,Homo sapiens,,humn
+D10428217.P5,D10428217.E56,Lung,,bpoc,PART_OF,D10428217.E55,Homo sapiens,,humn
+D10448275.P1,D10448275.E4,TSG101 gene,,gngm,ASSOCIATED_WITH,D10448275.E5,Liver carcinoma,,neop
+D10448275.P2,D10448275.E12,Neoplasms,,neop,PROCESS_OF,D10448275.E11,Homo sapiens,,humn
+D10448275.P3,D10448275.E57,TSG101 gene,,gngm,ASSOCIATED_WITH,D10448275.E59,Hepatocarcinogenesis,,neop
+D10451122.P1,D10451122.E3,Disease,,dsyn,PROCESS_OF,D10451122.E2,Homo sapiens,,humn
+D10451122.P2,D10451122.E31,Aldehyde Reductase,,aapp,AUGMENTS,D10451122.E28,Colorectal Cancer,,neop
+D10451122.P3,D10451122.E27,Calgranulin B,,aapp,AUGMENTS,D10451122.E28,Colorectal Cancer,,neop
+D10451122.P4,D10451122.E47,Measurement,,ftcn,ISA,D10451122.E45,Techniques,,ftcn
+D10451122.P5,D10451122.E60,"Cardiomyopathy, Dilated",,dsyn,PROCESS_OF,D10451122.E61,Patients,,humn
+D10451122.P6,D10451122.E91,Borrelia burgdorferi,,bact,ISA,D10451122.E90,Microorganism,,orgm
+D10451122.P7,D10451122.E93,Toxoplasma gondii,,euka,ISA,D10451122.E90,Microorganism,,orgm
+D10451487.P1,D10451487.E4,Liver carcinoma,,neop,PROCESS_OF,D10451487.E3,Homo sapiens,,humn
+D10451487.P2,D10451487.E2,SPARC gene,,gngm,PART_OF,D10451487.E4,Liver carcinoma,,neop
+D10451487.P3,D10451487.E6,Osteonectin,,aapp,ISA,D10451487.E7,Glycoproteins,,aapp
+D10451487.P4,D10451487.E12,"Fibrosis, Liver",,dsyn,PROCESS_OF,D10451487.E11,Homo sapiens,,humn
+D10451487.P5,D10451487.E9,Osteonectin,,aapp,ASSOCIATED_WITH,D10451487.E12,"Fibrosis, Liver",,dsyn
+D10451487.P6,D10451487.E19,Liver carcinoma,,neop,PROCESS_OF,D10451487.E18,Homo sapiens,,humn
+D10451487.P7,D10451487.E13,Osteonectin,,gngm,PART_OF,D10451487.E19,Liver carcinoma,,neop
+D10451487.P8,D10451487.E42,Osteonectin,,aapp,TREATS,D10451487.E47,Fibrous bands,,acab
+D10451487.P9,D10451487.E44,Proteins,,aapp,TREATS,D10451487.E47,Fibrous bands,,acab
+D10451487.P10,D10451487.E68,Body tissue,,tisu,PART_OF,D10451487.E67,Neoplasms,,neop
+D10451487.P11,D10451487.E58,SPARC gene,,gngm,ASSOCIATED_WITH,D10451487.E57,Liver carcinoma,,neop
+D10451487.P12,D10451487.E57,Liver carcinoma,,neop,PROCESS_OF,D10451487.E56,Homo sapiens,,humn
+D10451487.P13,D10451487.E57,Liver carcinoma,,neop,ISA,D10451487.E63,Neoplasms,,neop
+D10451487.P14,D10451487.E68,Body tissue,,tisu,LOCATION_OF,D10451487.E57,Liver carcinoma,,neop
+D10451487.P15,D10451487.E58,SPARC gene,,gngm,ASSOCIATED_WITH,D10451487.E63,Neoplasms,,neop
+D10451487.P16,D10451487.E83,Liver carcinoma,,neop,PROCESS_OF,D10451487.E82,Homo sapiens,,humn
+D10451487.P17,D10451487.E85,Liver neoplasms,,neop,PROCESS_OF,D10451487.E88,Patients,,humn
+D10451487.P18,D10451487.E92,Myofibroblasts,,cell,PART_OF,D10451487.E91,Stroma,,bpoc
+D10451487.P19,D10451487.E92,Myofibroblasts,,cell,PRODUCES,D10451487.E90,SPARC gene,,aapp
+D10453948.P1,D10453948.E6,Liver carcinoma,,neop,PROCESS_OF,D10453948.E5,Patients,,humn
+D10453948.P2,D10453948.E5,Patients,,humn,LOCATION_OF,D10453948.E1,alpha-Fetoproteins,,aapp
+D10453948.P3,D10453948.E3,Blood,,tisu,LOCATION_OF,D10453948.E1,alpha-Fetoproteins,,aapp
+D10453948.P4,D10453948.E16,Blood,,tisu,LOCATION_OF,D10453948.E13,AFP gene,,aapp
+D10453948.P5,D10453948.E12,Liver carcinoma,,neop,PROCESS_OF,D10453948.E11,Patients,,humn
+D10453948.P6,D10453948.E31,Ethanol Ablation Therapy,,topp,TREATS,D10453948.E30,Patients,,podg
+D10453948.P7,D10453948.E31,Ethanol Ablation Therapy,,topp,ISA,D10453948.E32,Therapeutic procedure,,topp
+D10453948.P8,D10453948.E32,Therapeutic procedure,,topp,TREATS,D10453948.E30,Patients,,podg
+D10453948.P9,D10453948.E33,Transarterial embolization,,topp,COEXISTS_WITH,D10453948.E34,follow-up,,hlca
+D10453948.P10,D10453948.E38,Blood,,tisu,LOCATION_OF,D10453948.E36,,,aapp
+D10453948.P11,D10453948.E88,,,gngm,PART_OF,D10453948.E85,Patients,,humn
+D10453948.P12,D10453948.E84,Therapeutic procedure,,topp,TREATS,D10453948.E85,Patients,,podg
+D10453948.P13,D10453948.E98,Liver carcinoma,,neop,PROCESS_OF,D10453948.E97,Patients,,humn
+D10453948.P14,D10453948.E97,Patients,,humn,LOCATION_OF,D10453948.E92,,,aapp
+D10453948.P15,D10453948.E94,Blood,,tisu,LOCATION_OF,D10453948.E92,,,aapp
+D10459631.P1,D10459631.E2,Epidermal Growth Factor Receptor,,aapp,ASSOCIATED_WITH,D10459631.E3,Chronic liver disease,,dsyn
+D10459631.P2,D10459631.E2,Epidermal Growth Factor Receptor,,aapp,ASSOCIATED_WITH,D10459631.E4,Liver carcinoma,,neop
+D10459631.P3,D10459631.E1,Transforming Growth Factor alpha,,aapp,ASSOCIATED_WITH,D10459631.E3,Chronic liver disease,,dsyn
+D10459631.P4,D10459631.E1,Transforming Growth Factor alpha,,aapp,ASSOCIATED_WITH,D10459631.E4,Liver carcinoma,,neop
+D10459631.P5,D10459631.E7,Transforming Growth Factor alpha,,aapp,ISA,D10459631.E9,Growth Factor,,aapp
+D10459631.P6,D10459631.E13,Transforming Growth Factor alpha,,aapp,AFFECTS,D10459631.E15,Hepatocarcinogenesis,,neop
+D10459631.P7,D10459631.E20,Serum,,bdsu,LOCATION_OF,D10459631.E21,Transforming Growth Factor alpha,,aapp
+D10459631.P8,D10459631.E17,Transforming Growth Factor alpha,,aapp,ASSOCIATED_WITH,D10459631.E18,Chronic liver disease,,dsyn
+D10459631.P9,D10459631.E17,Transforming Growth Factor alpha,,aapp,ASSOCIATED_WITH,D10459631.E19,Liver carcinoma,,neop
+D10459631.P10,D10459631.E23,Epidermal Growth Factor Receptor,,aapp,PART_OF,D10459631.E26,Liver parenchyma,,bpoc
+D10459631.P11,D10459631.E22,Transforming Growth Factor alpha,,aapp,PART_OF,D10459631.E26,Liver parenchyma,,bpoc
+D10459631.P12,D10459631.E24,Proliferating Cell Nuclear Antigen,,aapp,PART_OF,D10459631.E26,Liver parenchyma,,bpoc
+D10459631.P13,D10459631.E33,Liver carcinoma,,neop,PROCESS_OF,D10459631.E30,Patients,,humn
+D10459631.P14,D10459631.E32,Liver Cirrhosis,,dsyn,PROCESS_OF,D10459631.E30,Patients,,humn
+D10459631.P15,D10459631.E31,"Hepatitis, Chronic",,dsyn,PROCESS_OF,D10459631.E30,Patients,,humn
+D10459631.P16,D10459631.E36,Serum,,bdsu,LOCATION_OF,D10459631.E37,Transforming Growth Factor alpha,,aapp
+D10459631.P17,D10459631.E42,beta-Actin,,aapp,PART_OF,D10459631.E44,Liver parenchyma,,bpoc
+D10459631.P18,D10459631.E40,Epidermal Growth Factor Receptor,,aapp,PART_OF,D10459631.E44,Liver parenchyma,,bpoc
+D10459631.P19,D10459631.E39,Transforming Growth Factor alpha,,aapp,PART_OF,D10459631.E44,Liver parenchyma,,bpoc
+D10459631.P20,D10459631.E41,Proliferating Cell Nuclear Antigen,,aapp,PART_OF,D10459631.E44,Liver parenchyma,,bpoc
+D10459631.P21,D10459631.E47,Serum,,bdsu,LOCATION_OF,D10459631.E48,Transforming Growth Factor alpha,,aapp
+D10459631.P22,D10459631.E57,Liver Cirrhosis,,dsyn,ISA,D10459631.E59,Disease,,dsyn
+D10459631.P23,D10459631.E54,Serum,,bdsu,LOCATION_OF,D10459631.E55,Transforming Growth Factor alpha,,aapp
+D10459631.P24,D10459631.E55,Transforming Growth Factor alpha,,aapp,ASSOCIATED_WITH,D10459631.E57,Liver Cirrhosis,,dsyn
+D10459631.P25,D10459631.E62,Serum,,bdsu,LOCATION_OF,D10459631.E63,Transforming Growth Factor alpha,,aapp
+D10459631.P26,D10459631.E67,Bilirubin,,bacs,PART_OF,D10459631.E63,Transforming Growth Factor alpha,,aapp
+D10459631.P27,D10459631.E98,Patients,,humn,LOCATION_OF,D10459631.E75,Epidermal Growth Factor Receptor,,aapp
+D10459631.P28,D10459631.E98,Patients,,humn,LOCATION_OF,D10459631.E74,Transforming Growth Factor alpha,,aapp
+D10459631.P29,D10459631.E98,Patients,,humn,LOCATION_OF,D10459631.E76,Proliferating Cell Nuclear Antigen,,aapp
+D10459631.P30,D10459631.E87,beta-Actin,,bacs,PART_OF,D10459631.E75,Epidermal Growth Factor Receptor,,aapp
+D10459631.P31,D10459631.E87,beta-Actin,,bacs,PART_OF,D10459631.E74,Transforming Growth Factor alpha,,aapp
+D10459631.P32,D10459631.E87,beta-Actin,,bacs,PART_OF,D10459631.E76,Proliferating Cell Nuclear Antigen,,aapp
+D10459631.P33,D10459631.E104,Serum,,bdsu,LOCATION_OF,D10459631.E105,Transforming Growth Factor alpha,,aapp
+D10459631.P34,D10459631.E105,Transforming Growth Factor alpha,,gngm,PART_OF,D10459631.E108,Hepatic,,blor
+D10459631.P35,D10459631.E105,Transforming Growth Factor alpha,,gngm,PART_OF,D10459631.E114,Hepatocyte,,cell
+D10461064.P1,D10461064.E8,TP53 gene,,gngm,ASSOCIATED_WITH,D10461064.E3,Liver carcinoma,,neop
+D10461064.P2,D10461064.E2,MYC gene,,gngm,ASSOCIATED_WITH,D10461064.E3,Liver carcinoma,,neop
+D10461064.P3,D10461064.E9,Proto-Oncogene Proteins c-myc,,aapp,AFFECTS,D10461064.E10,Liver Regeneration,,ortf
+D10461064.P4,D10461064.E16,Liver carcinoma,,neop,PROCESS_OF,D10461064.E15,Homo sapiens,,humn
+D10461064.P5,D10461064.E14,MYC Gene Amplification,,comd,COEXISTS_WITH,D10461064.E16,Liver carcinoma,,neop
+D10461064.P6,D10461064.E36,Paraffin Embedded Tissue,,tisu,LOCATION_OF,D10461064.E22,TP53 gene,,aapp
+D10461064.P7,D10461064.E36,Paraffin Embedded Tissue,,tisu,LOCATION_OF,D10461064.E37,DRD2 gene,,aapp
+D10461064.P8,D10461064.E30,Physical Medical Procedure,,hlca,METHOD_OF,D10461064.E31,Evaluation,,hlca
+D10461064.P9,D10461064.E22,TP53 gene,,gngm,compared_with,D10461064.E37,DRD2 gene,,gngm
+D10461064.P10,D10461064.E54,Patients,,humn,LOCATION_OF,D10461064.E50,MYC gene,,aapp
+D10463774.P1,D10463774.E5,Interleukin 1 Receptor Antagonist Protein,,aapp,INTERACTS_WITH,D10463774.E11,Interleukin-1,,aapp
+D10463774.P2,D10463774.E16,Stomach Carcinoma,,neop,PROCESS_OF,D10463774.E15,Homo sapiens,,humn
+D10463774.P3,D10463774.E14,Interleukin 1 Receptor Antagonist Protein,,gngm,PART_OF,D10463774.E16,Stomach Carcinoma,,neop
+D10463774.P4,D10463774.E31,Patients,,humn,LOCATION_OF,D10463774.E27,"IL1RN protein, human",,aapp
+D10463774.P5,D10463774.E27,"IL1RN protein, human",,aapp,ISA,D10463774.E26,Interleukin 1 Receptor Antagonist Protein,,aapp
+D10463774.P6,D10463774.E32,Stomach Carcinoma,,neop,PROCESS_OF,D10463774.E31,Patients,,humn
+D10463774.P7,D10463774.E31,Patients,,humn,LOCATION_OF,D10463774.E26,Interleukin 1 Receptor Antagonist Protein,,aapp
+D10463774.P8,D10463774.E28,"RNA, Messenger",,bacs,ASSOCIATED_WITH,D10463774.E29,Neoplasms,,neop
+D10463774.P9,D10463774.E39,"IL1RN protein, human",,aapp,ASSOCIATED_WITH,D10463774.E42,Neoplasms,,neop
+D10463774.P10,D10463774.E52,STIL wt Allele,,gngm,PART_OF,D10463774.E51,Neoplasms,,neop
+D10463774.P11,D10463774.E58,Sinus histiocytosis,,dsyn,COEXISTS_WITH,D10463774.E59,Neoplasms,,neop
+D10470182.P1,D10470182.E4,Cytoplasmic matrix,,celc,PART_OF,D10470182.E3,Neoplasms,,neop
+D10470182.P2,D10470182.E4,Cytoplasmic matrix,,celc,PART_OF,D10470182.E5,Liver carcinoma,,neop
+D10470182.P3,D10470182.E14,Malignant Neoplasms,,neop,PROCESS_OF,D10470182.E13,Homo sapiens,,humn
+D10470182.P4,D10470182.E9,TP53 gene,,gngm,ASSOCIATED_WITH,D10470182.E14,Malignant Neoplasms,,neop
+D10470182.P5,D10470182.E17,Carcinoma,,neop,PROCESS_OF,D10470182.E16,Homo sapiens,,humn
+D10470182.P6,D10470182.E19,Malignant Neoplasms,,neop,PART_OF,D10470182.E20,Breast,,bpoc
+D10470182.P7,D10470182.E19,Malignant Neoplasms,,neop,PART_OF,D10470182.E22,Ovary,,bpoc
+D10470182.P8,D10470182.E19,Malignant Neoplasms,,neop,PART_OF,D10470182.E21,Entire colon,,bpoc
+D10470182.P9,D10470182.E18,,,gngm,PART_OF,D10470182.E19,Malignant Neoplasms,,neop
+D10470182.P10,D10470182.E31,Clinical,,qlco,ISA,D10470182.E32,Result,,ftcn
+D10470182.P11,D10470182.E29,Cytoplasmic matrix,,celc,PART_OF,D10470182.E28,Neoplasms,,neop
+D10470182.P12,D10470182.E29,Cytoplasmic matrix,,celc,PART_OF,D10470182.E30,Liver and Intrahepatic Biliary Tract Carcinoma,,neop
+D10470182.P13,D10470182.E29,Cytoplasmic matrix,,celc,LOCATION_OF,D10470182.E27,TP53 gene,,aapp
+D10470182.P14,D10470182.E36,Cytoplasmic matrix,,celc,PART_OF,D10470182.E35,Neoplasms,,neop
+D10470182.P15,D10470182.E37,Immunoenzyme Procedure,,lbpr,USES,D10470182.E38,Monoclonal Antibodies,,aapp
+D10470182.P16,D10470182.E36,Cytoplasmic matrix,,celc,LOCATION_OF,D10470182.E34,TP53 gene,,aapp
+D10470182.P17,D10470182.E63,60%,,fndg,PROCESS_OF,D10470182.E65,Patients,,humn
+D10470182.P18,D10470182.E64,20%,,fndg,PROCESS_OF,D10470182.E65,Patients,,humn
+D10470182.P19,D10470182.E84,TP53 gene,,gngm,ASSOCIATED_WITH,D10470182.E86,Liver carcinoma,,neop
+D10476206.P1,D10476206.E2,"AFP protein, human",,aapp,TREATS,D10476206.E6,Liver carcinoma,,neop
+D10476206.P2,D10476206.E7,retroviral vector,,nnon,INTERACTS_WITH,D10476206.E8,herpes simplex thymidine kinase,,aapp
+D10476206.P3,D10476206.E38,,,gngm,PART_OF,D10476206.E37,Homo sapiens,,humn
+D10476206.P4,D10476206.E31,,,gngm,PART_OF,D10476206.E30,Homo sapiens,,humn
+D10476206.P5,D10476206.E27,herpes simplex thymidine kinase,,aapp,INTERACTS_WITH,D10476206.E31,,,aapp
+D10476206.P6,D10476206.E64,Ganciclovir,,nnon,AFFECTS,D10476206.E66,cell growth,,celf
+D10476206.P7,D10476206.E74,,,gngm,PART_OF,D10476206.E73,Homo sapiens,,humn
+D10477681.P1,D10477681.E1,Interleukin-1 beta,,aapp,AUGMENTS,D10477681.E3,dna binding,,genf
+D10477681.P2,D10477681.E2,Tumor Necrosis Factors,,aapp,AUGMENTS,D10477681.E3,dna binding,,genf
+D10477681.P3,D10477681.E8,Proteins,,aapp,INTERACTS_WITH,D10477681.E9,Oxygen,,elii
+D10477681.P4,D10477681.E11,Hypoxia-Inducible Factor 1,,aapp,AFFECTS,D10477681.E10,energy homeostasis,,biof
+D10477681.P5,D10477681.E26,Interleukin-1 beta,,aapp,ISA,D10477681.E25,cytokine,,aapp
+D10477681.P6,D10477681.E31,Growth Factor Gene,,gngm,PART_OF,D10477681.E30,Endothelium,,tisu
+D10477681.P7,D10477681.E31,Growth Factor Gene,,gngm,INTERACTS_WITH,D10477681.E33,Interleukin-1 beta,,gngm
+D10477681.P8,D10477681.E26,Interleukin-1 beta,,aapp,INHIBITS,D10477681.E23,,,gngm
+D10477681.P9,D10477681.E34,Tumor Necrosis Factors,,aapp,INHIBITS,D10477681.E23,,,gngm
+D10477681.P10,D10477681.E27,Tumor Necrosis Factors,,aapp,INHIBITS,D10477681.E23,,,gngm
+D10477681.P11,D10477681.E66,cytokine,,aapp,STIMULATES,D10477681.E63,Hypoxia-Inducible Factor 1,,gngm
+D10490821.P1,D10490821.E2,SMAD4 gene,,gngm,ASSOCIATED_WITH,D10490821.E4,Liver carcinoma,,neop
+D10490821.P2,D10490821.E1,SMAD2 gene,,gngm,ASSOCIATED_WITH,D10490821.E4,Liver carcinoma,,neop
+D10490821.P3,D10490821.E5,Transforming Growth Factor beta,,aapp,AFFECTS,D10490821.E9,Growth,,orgf
+D10490821.P4,D10490821.E13,Candidate Tumor Suppressor Gene,,gngm,ISA,D10490821.E11,Genes,,gngm
+D10490821.P5,D10490821.E13,Candidate Tumor Suppressor Gene,,gngm,ASSOCIATED_WITH,D10490821.E14,Liver carcinoma,,neop
+D10490821.P6,D10490821.E26,SMAD4 gene,,gngm,COEXISTS_WITH,D10490821.E28,SMAD2 gene,,gngm
+D10490821.P7,D10490821.E37,Transforming Growth Factor beta,,aapp,AFFECTS,D10490821.E38,Liver carcinoma,,neop
+D10496524.P1,D10496524.E3,Hepatocarcinogenesis,,neop,PROCESS_OF,D10496524.E2,House mice,,mamm
+D10496524.P2,D10496524.E11,Liver carcinoma,,neop,PROCESS_OF,D10496524.E10,House mice,,mamm
+D10496524.P3,D10496524.E8,Genes,,gngm,PART_OF,D10496524.E11,Liver carcinoma,,neop
+D10496524.P4,D10496524.E25,"IL1A protein, human",,aapp,DISRUPTS,D10496524.E26,Growth,,orgf
+D10496524.P5,D10496524.E44,Liver carcinoma,,neop,PROCESS_OF,D10496524.E43,Homo sapiens,,humn
+D10496524.P6,D10496524.E49,Liver neoplasms,,neop,PROCESS_OF,D10496524.E48,House mice,,mamm
+D10496524.P7,D10496524.E57,Liver neoplasms,,neop,PROCESS_OF,D10496524.E59,Mus,,mamm
+D10496524.P8,D10496524.E72,Adenoma,,neop,COEXISTS_WITH,D10496524.E78,Carcinoma,,neop
+D10496524.P9,D10496524.E84,Liver neoplasms,,neop,AFFECTS,D10496524.E87,tumor growth,,neop
+D10498643.P1,D10498643.E4,Liver carcinoma,,neop,PROCESS_OF,D10498643.E3,Homo sapiens,,humn
+D10498643.P2,D10498643.E2,,,gngm,PART_OF,D10498643.E4,Liver carcinoma,,neop
+D10498643.P3,D10498643.E11,B-Lymphocytes,,cell,LOCATION_OF,D10498643.E7,Tumor Necrosis Factor Receptor,,aapp
+D10498643.P4,D10498643.E13,B-Lymphocytes,,cell,LOCATION_OF,D10498643.E12,,,aapp
+D10498643.P5,D10498643.E18,,,gngm,PART_OF,D10498643.E19,Liver carcinoma,,neop
+D10498643.P6,D10498643.E26,,,gngm,PART_OF,D10498643.E23,established cell line,,cell
+D10498643.P7,D10498643.E20,,,gngm,PART_OF,D10498643.E23,established cell line,,cell
+D10498643.P8,D10498643.E32,Human tissue,,tisu,PART_OF,D10498643.E31,Liver carcinoma,,neop
+D10498643.P9,D10498643.E30,,,gngm,PART_OF,D10498643.E32,Human tissue,,tisu
+D10498643.P10,D10498643.E30,,,gngm,PART_OF,D10498643.E34,Liver parenchyma,,bpoc
+D10498643.P11,D10498643.E42,,,gngm,INTERACTS_WITH,D10498643.E45,"Antibodies, Anti-Idiotypic",,gngm
+D10498643.P12,D10498643.E42,,,gngm,INTERACTS_WITH,D10498643.E46,Tumor Necrosis Factors,,gngm
+D10498643.P13,D10498643.E40,Cells,,cell,LOCATION_OF,D10498643.E38,,,aapp
+D10498643.P14,D10498643.E38,,,gngm,AUGMENTS,D10498643.E49,Hep G2 Cells,,cell
+D10498643.P15,D10498643.E54,Hep G2 Cells,,cell,LOCATION_OF,D10498643.E52,CD8A wt Allele,,aapp
+D10498643.P16,D10498643.E64,Recombinant Interferon-gamma,,aapp,STIMULATES,D10498643.E58,,,gngm
+D10498643.P17,D10498643.E64,Recombinant Interferon-gamma,,aapp,STIMULATES,D10498643.E62,CD40 Antigens,,gngm
+D10498643.P18,D10498643.E67,Human tissue,,tisu,PART_OF,D10498643.E66,Liver carcinoma,,neop
+D10498643.P19,D10498643.E75,Stimulation procedure,,topp,USES,D10498643.E74,,,aapp
+D10498643.P20,D10498643.E75,Stimulation procedure,,topp,AFFECTS,D10498643.E77,Cell Survival,,celf
+D10498643.P21,D10498643.E75,Stimulation procedure,,topp,AFFECTS,D10498643.E81,Apoptosis,,celf
+D10498643.P22,D10498643.E78,,,gngm,STIMULATES,D10498643.E74,,,gngm
+D10498643.P23,D10498643.E87,,,gngm,PART_OF,D10498643.E88,Liver carcinoma,,neop
+D10507762.P1,D10507762.E12,hepatoma cell,,cell,PART_OF,D10507762.E11,Homo sapiens,,humn
+D10507762.P2,D10507762.E12,hepatoma cell,,cell,LOCATION_OF,D10507762.E4,Peptides,,aapp
+D10507762.P3,D10507762.E22,Heparan Sulfate Proteoglycans,,aapp,PART_OF,D10507762.E21,integral to membrane,,celc
+D10507762.P4,D10507762.E13,PR 39,,bacs,CAUSES,D10507762.E19,Anabolism,,biof
+D10507762.P5,D10507762.E22,Heparan Sulfate Proteoglycans,,aapp,AFFECTS,D10507762.E23,Cell Communication,,celf
+D10507762.P6,D10507762.E22,Heparan Sulfate Proteoglycans,,aapp,AFFECTS,D10507762.E24,Wound Healing,,orgf
+D10507762.P7,D10507762.E22,Heparan Sulfate Proteoglycans,,aapp,INTERACTS_WITH,D10507762.E20,syndecan 1 protein,,aapp
+D10507762.P8,D10507762.E27,Liver carcinoma,,neop,PROCESS_OF,D10507762.E26,Homo sapiens,,humn
+D10507762.P9,D10507762.E25,SDC1 gene,,aapp,PREVENTS,D10507762.E27,Liver carcinoma,,neop
+D10507762.P10,D10507762.E25,SDC1 gene,,aapp,PREVENTS,D10507762.E32,Secondary Neoplasm,,neop
+D10507762.P11,D10507762.E43,EPAS1 gene,,gngm,PART_OF,D10507762.E42,human cell line,,cell
+D10507762.P12,D10507762.E40,PR 39,,bacs,PART_OF,D10507762.E45,SDC1 gene,,aapp
+D10507762.P13,D10507762.E39,Genes,,gngm,DISRUPTS,D10507762.E53,"Tumor cells, uncertain whether benign or malignant",,cell
+D10507762.P14,D10507762.E56,Genes,,gngm,PRODUCES,D10507762.E57,syndecan 1 protein,,aapp
+D10507762.P15,D10507762.E70,Cells,,cell,LOCATION_OF,D10507762.E76,Actins,,aapp
+D10507762.P16,D10507762.E70,Cells,,cell,LOCATION_OF,D10507762.E68,SDC1 gene,,aapp
+D10507762.P17,D10507762.E76,Actins,,aapp,AFFECTS,D10507762.E74,Motile,,fndg
+D10507762.P18,D10507762.E68,SDC1 gene,,aapp,AFFECTS,D10507762.E74,Motile,,fndg
+D10507762.P19,D10507762.E87,hepatoma cell,,cell,PART_OF,D10507762.E86,Homo sapiens,,humn
+D10507762.P20,D10507762.E79,PR 39,,aapp,DISRUPTS,D10507762.E81,Motile,,fndg
+D10507762.P21,D10507762.E87,hepatoma cell,,cell,PRODUCES,D10507762.E91,syndecan 1 protein,,aapp
+D10507763.P1,D10507763.E3,Liver carcinoma,,neop,PROCESS_OF,D10507763.E2,Homo sapiens,,humn
+D10507763.P2,D10507763.E1,Asialoglycoprotein Receptor,,aapp,ASSOCIATED_WITH,D10507763.E3,Liver carcinoma,,neop
+D10507763.P3,D10507763.E8,hepatoma cell,,cell,PART_OF,D10507763.E7,Homo sapiens,,humn
+D10507763.P4,D10507763.E6,Asialoglycoprotein Receptor,,aapp,PREVENTS,D10507763.E10,Toxic effect,,inpo
+D10507763.P5,D10507763.E8,hepatoma cell,,cell,LOCATION_OF,D10507763.E6,Asialoglycoprotein Receptor,,aapp
+D10507763.P6,D10507763.E24,Plasma membrane,,celc,LOCATION_OF,D10507763.E23,receptor,,aapp
+D10507763.P7,D10507763.E24,Plasma membrane,,celc,PART_OF,D10507763.E26,"Tumor cells, malignant",,cell
+D10507763.P8,D10507763.E29,Liver carcinoma,,neop,PROCESS_OF,D10507763.E28,Homo sapiens,,humn
+D10507763.P9,D10507763.E33,Liver carcinoma,,neop,PROCESS_OF,D10507763.E32,Homo sapiens,,humn
+D10507763.P10,D10507763.E62,hepatoma cell,,cell,PART_OF,D10507763.E61,Homo sapiens,,humn
+D10507763.P11,D10507763.E60,Plasma membrane,,celc,PART_OF,D10507763.E62,hepatoma cell,,cell
+D10507763.P12,D10507763.E79,Liver carcinoma,,neop,PROCESS_OF,D10507763.E78,Homo sapiens,,humn
+D10507763.P13,D10507763.E84,Bromodeoxyuridine,,phsu,COEXISTS_WITH,D10507763.E71,Asialoglycoprotein Receptor,,aapp
+D10507763.P14,D10507763.E89,"Tumor cells, malignant",,cell,PRODUCES,D10507763.E90,Asialoglycoprotein Receptor,,aapp
+D10507763.P15,D10507763.E94,Plasma membrane,,celc,PART_OF,D10507763.E93,Receptor Cell,,cell
+D10507763.P16,D10507763.E105,hepatoma cell,,cell,PART_OF,D10507763.E104,Homo sapiens,,humn
+D10507763.P17,D10507763.E99,Cells,,cell,LOCATION_OF,D10507763.E97,HCCS gene,,aapp
+D10508492.P1,D10508492.E4,PRDM2 gene,,gngm,ASSOCIATED_WITH,D10508492.E5,Liver neoplasms,,neop
+D10508492.P2,D10508492.E8,PRDM2 gene,,gngm,DISRUPTS,D10508492.E7,Tumorigenicity,,patf
+D10508492.P3,D10508492.E34,Malignant Neoplasms,,neop,PROCESS_OF,D10508492.E33,Homo sapiens,,humn
+D10508492.P4,D10508492.E34,Malignant Neoplasms,,neop,AFFECTS,D10508492.E31,Family,,humn
+D10508492.P5,D10508492.E52,PRDM2 gene,,gngm,ASSOCIATED_WITH,D10508492.E53,Liver neoplasms,,neop
+D10508492.P6,D10508492.E63,Tumor tissue sample,,tisu,PART_OF,D10508492.E62,Liver neoplasms,,neop
+D10508492.P7,D10508492.E63,Tumor tissue sample,,tisu,LOCATION_OF,D10508492.E61,PRDM2 gene,,aapp
+D10508492.P8,D10508492.E70,PRDM2 gene,,gngm,PART_OF,D10508492.E72,Cultured Cell Line,,cell
+D10508492.P9,D10508492.E78,hepatoma cell,,cell,PART_OF,D10508492.E79,"Mice, Nude",,mamm
+D10508492.P10,D10508492.E85,Malignant Neoplasms,,neop,PROCESS_OF,D10508492.E84,Homo sapiens,,humn
+D10508492.P11,D10508492.E83,Proteins,,bacs,PART_OF,D10508492.E82,PRDM2 gene,,aapp
+D10508492.P12,D10508492.E83,Proteins,,aapp,ASSOCIATED_WITH,D10508492.E85,Malignant Neoplasms,,neop
+D10508492.P13,D10508492.E87,Tumor Suppressor Genes,,gngm,ASSOCIATED_WITH,D10508492.E88,Liver neoplasms,,neop
+D10519413.P1,D10519413.E3,Genes,,gngm,ASSOCIATED_WITH,D10519413.E6,Carcinogenesis,,neop
+D10519413.P2,D10519413.E21,Liver carcinoma,,neop,PROCESS_OF,D10519413.E20,Homo sapiens,,humn
+D10519413.P3,D10519413.E17,,,gngm,PART_OF,D10519413.E21,Liver carcinoma,,neop
+D10519413.P4,D10519413.E15,Vitronectin,,gngm,PART_OF,D10519413.E21,Liver carcinoma,,neop
+D10519413.P5,D10519413.E12,ribosomal protein P0,,gngm,PART_OF,D10519413.E21,Liver carcinoma,,neop
+D10519413.P6,D10519413.E14,Insulin-Like Growth-Factor Binding Protein 1,,gngm,PART_OF,D10519413.E21,Liver carcinoma,,neop
+D10519413.P7,D10519413.E13,DEK gene,,gngm,PART_OF,D10519413.E21,Liver carcinoma,,neop
+D10519413.P8,D10519413.E16,LY6E gene,,gngm,PART_OF,D10519413.E21,Liver carcinoma,,neop
+D10519413.P9,D10519413.E63,Body tissue,,tisu,PART_OF,D10519413.E62,Carcinoma,,neop
+D10519413.P10,D10519413.E66,Liver carcinoma,,neop,PROCESS_OF,D10519413.E67,Patients,,humn
+D10519413.P11,D10519413.E67,Patients,,humn,LOCATION_OF,D10519413.E58,,,aapp
+D10519413.P12,D10519413.E55,Entire fetus,,anst,LOCATION_OF,D10519413.E50,,,aapp
+D10519413.P13,D10519413.E55,Entire fetus,,anst,LOCATION_OF,D10519413.E52,CYP3A7 gene,,aapp
+D10519413.P14,D10519413.E97,hepatoma cell,,cell,PART_OF,D10519413.E96,Homo sapiens,,humn
+D10519413.P15,D10519413.E97,hepatoma cell,,cell,PRODUCES,D10519413.E99,Serum,,bdsu
+D10519413.P16,D10519413.E109,Sodium Butyrate,,orch,INHIBITS,D10519413.E112,DEK gene,,gngm
+D10519413.P17,D10519413.E109,Sodium Butyrate,,orch,INHIBITS,D10519413.E111,LY6E gene,,gngm
+D10519413.P18,D10519413.E116,Part,,spco,LOCATION_OF,D10519413.E115,Cells,,cell
+D10519413.P19,D10519413.E131,Liver carcinoma,,neop,PROCESS_OF,D10519413.E130,Homo sapiens,,humn
+D10519413.P20,D10519413.E125,Vitronectin,,bacs,PART_OF,D10519413.E127,LY6E gene,,aapp
+D10519413.P21,D10519413.E124,Insulin-Like Growth-Factor Binding Protein 1,,bacs,PART_OF,D10519413.E127,LY6E gene,,aapp
+D10519413.P22,D10519413.E120,Galectin 4,,bacs,PART_OF,D10519413.E127,LY6E gene,,aapp
+D10519413.P23,D10519413.E132,,,gngm,AUGMENTS,D10519413.E136,Liver,,bpoc
+D10519413.P24,D10519413.E133,CYP3A7 gene,,gngm,AUGMENTS,D10519413.E136,Liver,,bpoc
+D10519413.P25,D10519413.E139,Serum,,bdsu,LOCATION_OF,D10519413.E140,Growth Factor,,aapp
+D10519413.P26,D10519413.E147,"Tumor cells, malignant",,cell,PART_OF,D10519413.E146,Liver,,bpoc
+D10519413.P27,D10519413.E140,Growth Factor,,aapp,ASSOCIATED_WITH,D10519413.E145,Precancerous Conditions,,neop
+D10523694.P1,D10523694.E9,Liver carcinoma,,neop,PROCESS_OF,D10523694.E8,Homo sapiens,,humn
+D10523694.P2,D10523694.E6,Cultured Cell Line,,cell,LOCATION_OF,D10523694.E4,TP53 gene,,aapp
+D10523694.P3,D10523694.E11,TP53 gene,,gngm,ASSOCIATED_WITH,D10523694.E13,Liver carcinoma,,neop
+D10523694.P4,D10523694.E17,Genes,,gngm,ASSOCIATED_WITH,D10523694.E18,Liver carcinoma,,neop
+D10523694.P5,D10523694.E22,Cultured Cell Line,,cell,LOCATION_OF,D10523694.E20,Protein p53,,aapp
+D10523694.P6,D10523694.E31,Alleles,,gngm,COEXISTS_WITH,D10523694.E32,Candida albicans extract,,imft
+D10523694.P7,D10523694.E59,Protein p53,,aapp,ASSOCIATED_WITH,D10523694.E61,Liver carcinoma,,neop
+D10523694.P8,D10523694.E64,Genes,,gngm,ASSOCIATED_WITH,D10523694.E65,Liver carcinoma,,neop
+D10533071.P1,D10533071.E22,Mutation,,genf,PROCESS_OF,D10533071.E23,Persons,,humn
+D10533071.P2,D10533071.E39,Liver carcinoma,,neop,PROCESS_OF,D10533071.E38,Patients,,humn
+D10533071.P3,D10533071.E36,Mutation,,genf,PROCESS_OF,D10533071.E38,Patients,,humn
+D10545724.P1,D10545724.E2,CTNNB1 Gene Mutation,,comd,COEXISTS_WITH,D10545724.E3,Pancreatic Neoplasm,,neop
+D10545724.P2,D10545724.E7,APC gene,,gngm,ISA,D10545724.E8,Tumor Suppressor Genes,,gngm
+D10545724.P3,D10545724.E11,APC gene,,gngm,INTERACTS_WITH,D10545724.E14,,,gngm
+D10545724.P4,D10545724.E30,CTNNB1 gene,,gngm,INTERACTS_WITH,D10545724.E31,FOXD3 gene,,gngm
+D10545724.P5,D10545724.E32,Endocrine Gland Neoplasms,,neop,PART_OF,D10545724.E33,Pancreas,,bpoc
+D10545724.P6,D10545724.E66,,,gngm,INTERACTS_WITH,D10545724.E68,FOXD3 gene,,gngm
+D10545724.P7,D10545724.E63,CTNNB1 gene,,gngm,CAUSES,D10545724.E69,Pancreatic Neoplasm,,neop
+D10551902.P1,D10551902.E5,Tumorigenicity,,patf,CAUSES,D10551902.E6,Tumor Immunity,,dsyn
+D10551902.P2,D10551902.E11,Antigen Presentation,,celf,PROCESS_OF,D10551902.E12,Immune response,,ortf
+D10551902.P3,D10551902.E21,Neoplasms,,neop,PRODUCES,D10551902.E22,Intercellular adhesion molecule 1,,aapp
+D10551902.P4,D10551902.E27,ICAM1 gene,,gngm,PART_OF,D10551902.E26,Homo sapiens,,humn
+D10551902.P5,D10551902.E33,human cell line,,cell,LOCATION_OF,D10551902.E27,ICAM1 gene,,aapp
+D10551902.P6,D10551902.E28,Genes,,gngm,ASSOCIATED_WITH,D10551902.E32,Colorectal Cancer,,neop
+D10551902.P7,D10551902.E28,Genes,,gngm,ASSOCIATED_WITH,D10551902.E31,Rat Hepatocellular Carcinoma,,neop
+D10551902.P8,D10551902.E35,Intercellular adhesion molecule 1,,aapp,PART_OF,D10551902.E34,Cell surface,,celc
+D10551902.P9,D10551902.E43,Intercellular cell adhesion molecule,,aapp,PART_OF,D10551902.E41,Simplexvirus,,virs
+D10551902.P10,D10551902.E45,Tumorigenicity,,patf,PROCESS_OF,D10551902.E49,"BUF, Rat Strain",,mamm
+D10551902.P11,D10551902.E51,Therapeutic radiology procedure,,topp,AFFECTS,D10551902.E57,tumor growth,,neop
+D10551902.P12,D10551902.E67,Intercellular cell adhesion molecule,,aapp,PART_OF,D10551902.E66,Homo sapiens,,humn
+D10551902.P13,D10551902.E67,Intercellular cell adhesion molecule,,aapp,PART_OF,D10551902.E65,Cell surface,,celc
+D10551902.P14,D10551902.E72,"Tumor cells, uncertain whether benign or malignant",,cell,PART_OF,D10551902.E71,Homo sapiens,,humn
+D10551902.P15,D10551902.E100,Cell Adhesion Molecules,,aapp,PART_OF,D10551902.E99,Cell surface,,celc
+D10551902.P16,D10551902.E103,Intercellular adhesion molecule 1,,gngm,PART_OF,D10551902.E102,Neoplasms,,neop
+D10567879.P1,D10567879.E5,BCL-2 Protein,,aapp,ISA,D10567879.E8,Apoptosis Regulatory Proteins,,aapp
+D10567879.P2,D10567879.E11,BCL-2 Protein,,aapp,AFFECTS,D10567879.E12,Chemosensitivity,,fndg
+D10567879.P3,D10567879.E17,Bax protein,,aapp,PART_OF,D10567879.E18,Cells,,cell
+D10567879.P4,D10567879.E16,BCL2 gene,,aapp,PART_OF,D10567879.E18,Cells,,cell
+D10567879.P5,D10567879.E30,Bax protein,,bacs,PART_OF,D10567879.E33,BCL2 gene,,aapp
+D10567879.P6,D10567879.E40,BCL2 gene,,gngm,INTERACTS_WITH,D10567879.E44,Pharmaceutical Preparations,,phsu
+D10567879.P7,D10567879.E52,BCL2 gene,,gngm,INTERACTS_WITH,D10567879.E54,Antineoplastic Agents,,orch
+D10567906.P1,D10567906.E3,Retinoblastoma Protein,,aapp,ASSOCIATED_WITH,D10567906.E4,Tumor Progression,,neop
+D10567906.P2,D10567906.E3,Retinoblastoma Protein,,aapp,ASSOCIATED_WITH,D10567906.E5,Secondary Neoplasm,,neop
+D10567906.P3,D10567906.E4,Tumor Progression,,neop,COEXISTS_WITH,D10567906.E6,Liver carcinoma,,neop
+D10567906.P4,D10567906.E5,Secondary Neoplasm,,neop,COEXISTS_WITH,D10567906.E6,Liver carcinoma,,neop
+D10567906.P5,D10567906.E18,"Hepatitis, Chronic",,dsyn,AFFECTS,D10567906.E9,Hepatocarcinogenesis,,neop
+D10567906.P6,D10567906.E23,Adenomatous hyperplasia,,patf,AFFECTS,D10567906.E9,Hepatocarcinogenesis,,neop
+D10567906.P7,D10567906.E72,Liver carcinoma,,neop,COEXISTS_WITH,D10567906.E80,Primary Lesion,,dsyn
+D10567906.P8,D10567906.E84,Retinoblastoma Protein,,aapp,ASSOCIATED_WITH,D10567906.E86,Neoplasm Metastasis,,neop
+D10567906.P9,D10567906.E84,Retinoblastoma Protein,,aapp,ASSOCIATED_WITH,D10567906.E85,Tumor Progression,,neop
+D10569800.P1,D10569800.E5,Peroxisome Proliferators,,hops,CAUSES,D10569800.E4,Carcinogenesis,,neop
+D10569800.P2,D10569800.E2,Acute-Phase Proteins,,gngm,PART_OF,D10569800.E1,Hepatic,,blor
+D10569800.P3,D10569800.E11,Rodent,,mamm,LOCATION_OF,D10569800.E9,,,aapp
+D10569800.P4,D10569800.E13,,,gngm,CAUSES,D10569800.E12,Carcinogenicity,,neop
+D10569800.P5,D10569800.E17,Peroxisome Proliferator-Activated Receptors,,aapp,INTERACTS_WITH,D10569800.E19,Genes,,aapp
+D10569800.P6,D10569800.E28,Rattus norvegicus,,mamm,LOCATION_OF,D10569800.E21,Genes,,aapp
+D10569800.P7,D10569800.E38,alpha-2 globulin,,gngm,PART_OF,D10569800.E39,Neoplasms,,neop
+D10569800.P8,D10569800.E43,Diethylnitrosamine,,hops,CAUSES,D10569800.E42,Hepatic adenoma,,neop
+D10569800.P9,D10569800.E63,Peroxisome Proliferators,,hops,ADMINISTERED_TO,D10569800.E61,Rattus norvegicus,,mamm
+D10569800.P10,D10569800.E54,Ceruloplasmin,,aapp,AUGMENTS,D10569800.E59,Neoplasms,,neop
+D10569800.P11,D10569800.E56,Fibrinogen,,aapp,AUGMENTS,D10569800.E59,Neoplasms,,neop
+D10569800.P12,D10569800.E55,Haptoglobins,,aapp,AUGMENTS,D10569800.E59,Neoplasms,,neop
+D10569800.P13,D10569800.E57,Orosomucoid,,aapp,AUGMENTS,D10569800.E59,Neoplasms,,neop
+D10569800.P14,D10569800.E52,Acute-Phase Proteins,,aapp,DISRUPTS,D10569800.E60,Liver,,bpoc
+D10569800.P15,D10569800.E60,Liver,,bpoc,PART_OF,D10569800.E61,Rattus norvegicus,,mamm
+D10569800.P16,D10569800.E69,Protein C Inhibitor,,gngm,PART_OF,D10569800.E68,Hepatic,,blor
+D10569800.P17,D10569800.E66,phthalates,,orch,INHIBITS,D10569800.E72,Haptoglobins,,gngm
+D10569800.P18,D10569800.E66,phthalates,,orch,INHIBITS,D10569800.E69,Protein C Inhibitor,,gngm
+D10569800.P19,D10569800.E77,Gene Mutation,,genf,AFFECTS,D10569800.E82,Wild Type,,aapp
+D10569800.P20,D10569800.E88,Acute-Phase Proteins,,gngm,PART_OF,D10569800.E87,Hepatic,,blor
+D10569800.P21,D10569800.E91,Mus,,mamm,LOCATION_OF,D10569800.E88,Acute-Phase Proteins,,aapp
+D10569800.P22,D10569800.E90,Rattus norvegicus,,mamm,LOCATION_OF,D10569800.E88,Acute-Phase Proteins,,aapp
+D10569800.P23,D10569800.E86,,,gngm,STIMULATES,D10569800.E83,PPAR alpha,,gngm
+D10575317.P1,D10575317.E1,CDKN2A gene,,gngm,ASSOCIATED_WITH,D10575317.E4,Liver carcinoma,,neop
+D10575317.P2,D10575317.E23,Neoplasms,,neop,PROCESS_OF,D10575317.E22,Swiss,,humn
+D10575317.P3,D10575317.E19,Neoplasms,,neop,PROCESS_OF,D10575317.E18,Japanese race,,humn
+D10575317.P4,D10575317.E29,TH gene,,gngm,PART_OF,D10575317.E25,Patients,,humn
+D10575317.P5,D10575317.E50,CDKN2A gene,,gngm,ASSOCIATED_WITH,D10575317.E55,Hepatocarcinogenesis,,neop
+D10575317.P6,D10575317.E55,Hepatocarcinogenesis,,neop,PROCESS_OF,D10575317.E56,Patients,,humn
+D10576668.P1,D10576668.E5,Liver carcinoma,,neop,PROCESS_OF,D10576668.E4,Homo sapiens,,humn
+D10576668.P2,D10576668.E2,Genes,,aapp,ASSOCIATED_WITH,D10576668.E5,Liver carcinoma,,neop
+D10576668.P3,D10576668.E3,Proteins,,aapp,ASSOCIATED_WITH,D10576668.E5,Liver carcinoma,,neop
+D10576668.P4,D10576668.E34,Cytoplasm,,celc,LOCATION_OF,D10576668.E33,Proteins,,aapp
+D10576668.P5,D10576668.E43,Nodule,,acab,PART_OF,D10576668.E42,Liver carcinoma,,neop
+D10576668.P6,D10576668.E51,Proteins,,bacs,PART_OF,D10576668.E52,Melanoma-Associated Antigen Family,,aapp
+D10576668.P7,D10576668.E74,Liver carcinoma,,neop,PROCESS_OF,D10576668.E73,Homo sapiens,,humn
+D10576668.P8,D10576668.E58,Detection,,topp,TREATS,D10576668.E65,Early Hepatocellular Carcinoma,,neop
+D10576668.P9,D10576668.E62,Western Blotting,,lbpr,METHOD_OF,D10576668.E58,Detection,,topp
+D10576668.P10,D10576668.E60,Reverse Transcriptase Polymerase Chain Reaction,,mbrt,METHOD_OF,D10576668.E58,Detection,,topp
+D10576668.P11,D10576668.E58,Detection,,topp,METHOD_OF,D10576668.E72,Immunotherapy,,topp
+D10580126.P1,D10580126.E6,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp,INTERACTS_WITH,D10580126.E7,Fucose,,orch
+D10580126.P2,D10580126.E21,Blood Platelets,,cell,PART_OF,D10580126.E20,Homo sapiens,,humn
+D10580126.P3,D10580126.E17,Brain,,bpoc,PART_OF,D10580126.E16,Family suidae,,mamm
+D10580126.P4,D10580126.E21,Blood Platelets,,cell,LOCATION_OF,D10580126.E13,Enzymes,,orch
+D10580126.P5,D10580126.E17,Brain,,bpoc,LOCATION_OF,D10580126.E13,Enzymes,,orch
+D10580126.P6,D10580126.E15,human cell line,,cell,LOCATION_OF,D10580126.E13,Enzymes,,orch
+D10580126.P7,D10580126.E19,human cell line,,cell,LOCATION_OF,D10580126.E13,Enzymes,,orch
+D10580126.P8,D10580126.E28,Brain,,bpoc,PART_OF,D10580126.E27,Family suidae,,mamm
+D10580126.P9,D10580126.E31,cDNA Library,,gngm,PART_OF,D10580126.E30,"Tumor cells, malignant",,cell
+D10580126.P10,D10580126.E23,Clone Cells,,cell,PART_OF,D10580126.E24,Family suidae,,mamm
+D10580126.P11,D10580126.E23,Clone Cells,,cell,PART_OF,D10580126.E25,Homo sapiens,,humn
+D10580126.P12,D10580126.E28,Brain,,bpoc,LOCATION_OF,D10580126.E26,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp
+D10580126.P13,D10580126.E28,Brain,,bpoc,LOCATION_OF,D10580126.E31,cDNA Library,,aapp
+D10580126.P14,D10580126.E52,"Chromosomes, Human, Pair 3",,celc,LOCATION_OF,D10580126.E49,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp
+D10580126.P15,D10580126.E63,gene cloning,,lbpr,USES,D10580126.E62,Fucosyltransferase,,aapp
+D10580126.P16,D10580126.E66,Body tissue,,tisu,PART_OF,D10580126.E65,Rattus norvegicus,,mamm
+D10580126.P17,D10580126.E64,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp,PART_OF,D10580126.E66,Body tissue,,tisu
+D10580126.P18,D10580126.E73,Hepatitis,,dsyn,PROCESS_OF,D10580126.E71,Rattus norvegicus,,mamm
+D10580126.P19,D10580126.E74,Liver carcinoma,,neop,PROCESS_OF,D10580126.E71,Rattus norvegicus,,mamm
+D10580126.P20,D10580126.E67,Glycoprotein 6-alpha-L-fucosyltransferase,,aapp,PART_OF,D10580126.E68,Liver,,bpoc
+D10580126.P21,D10580126.E69,Hepatocarcinogenesis,,neop,PART_OF,D10580126.E71,Rattus norvegicus,,mamm
+D10580126.P22,D10580126.E77,Liver diseases,,dsyn,PROCESS_OF,D10580126.E76,Homo sapiens,,humn
+D10580126.P23,D10580126.E80,Body tissue,,tisu,PART_OF,D10580126.E79,Liver neoplasms,,neop
+D10580126.P24,D10580126.E77,Liver diseases,,dsyn,PRODUCES,D10580126.E81,Body tissue,,tisu
+D10580126.P25,D10580126.E77,Liver diseases,,dsyn,PRODUCES,D10580126.E80,Body tissue,,tisu
+D10580126.P26,D10580126.E91,Liver neoplasms,,neop,PROCESS_OF,D10580126.E90,Patients,,humn
+D10580126.P27,D10580126.E87,serum alpha-fetoprotein (AFP) measurement,,lbpr,METHOD_OF,D10580126.E89,Early Diagnosis,,diap
+D10580126.P28,D10580126.E95,,,gngm,ASSOCIATED_WITH,D10580126.E96,Liver neoplasms,,neop
+D10580126.P29,D10580126.E107,Liver,,bpoc,LOCATION_OF,D10580126.E105,Neoplasms,,neop
+D10580126.P30,D10580126.E107,Liver,,bpoc,PART_OF,D10580126.E108,"Mice, Nude",,mamm
+D10582682.P1,D10582682.E3,BCL10 gene,,gngm,ASSOCIATED_WITH,D10582682.E5,Lymphoma,,neop
+D10582682.P2,D10582682.E3,BCL10 gene,,gngm,ASSOCIATED_WITH,D10582682.E4,solid tumor,,neop
+D10582682.P3,D10582682.E11,1p22,,celc,LOCATION_OF,D10582682.E7,Proteins,,aapp
+D10582682.P4,D10582682.E17,Body tissue,,tisu,PART_OF,D10582682.E16,Neoplasms,,neop
+D10582682.P5,D10582682.E18,Histologic,,ftcn,ISA,D10582682.E19,Beginning,,tmco
+D10582682.P6,D10582682.E24,1p22,,celc,LOCATION_OF,D10582682.E15,BCL10 gene,,aapp
+D10582682.P7,D10582682.E44,BCL10 gene,,gngm,ASSOCIATED_WITH,D10582682.E51,solid tumor,,neop
+D10582682.P8,D10582682.E54,BCL10 gene,,gngm,ASSOCIATED_WITH,D10582682.E56,Pathogenesis,,patf
+D10582682.P9,D10582682.E70,Neoplasms,,neop,PROCESS_OF,D10582682.E69,Homo sapiens,,humn
+D10582682.P10,D10582682.E63,BCL10 gene,,gngm,ASSOCIATED_WITH,D10582682.E70,Neoplasms,,neop
+D10582691.P1,D10582691.E7,CD82 gene,,gngm,PART_OF,D10582691.E6,member,,humn
+D10582691.P2,D10582691.E7,CD82 gene,,gngm,DISRUPTS,D10582691.E9,Secondary malignant neoplasm of lung,,neop
+D10582691.P3,D10582691.E9,Secondary malignant neoplasm of lung,,neop,COEXISTS_WITH,D10582691.E11,Secondary Neoplasm,,neop
+D10582691.P4,D10582691.E14,CD82 gene,,aapp,PREVENTS,D10582691.E26,Malignant neoplasm of urinary bladder,,neop
+D10582691.P5,D10582691.E14,CD82 gene,,aapp,PREVENTS,D10582691.E18,solid tumor,,neop
+D10582691.P6,D10582691.E32,Colorectal Cancer,,neop,PROCESS_OF,D10582691.E31,Homo sapiens,,humn
+D10582691.P7,D10582691.E45,Body tissue,,tisu,PART_OF,D10582691.E44,Colon structure (body structure),,bpoc
+D10582691.P8,D10582691.E39,"Cell Line, Tumor",,cell,PRODUCES,D10582691.E38,Lymphocyte antigen CD82,,aapp
+D10582691.P9,D10582691.E61,Colorectal Cancer,,neop,PROCESS_OF,D10582691.E60,Patients,,humn
+D10582691.P10,D10582691.E60,Patients,,humn,LOCATION_OF,D10582691.E56,CD82 gene,,aapp
+D10582691.P11,D10582691.E59,Body tissue,,tisu,LOCATION_OF,D10582691.E58,Immunohistochemistry,,diap
+D10582691.P12,D10582691.E75,Colonic mucous membrane,,bpoc,LOCATION_OF,D10582691.E72,CD82 gene,,aapp
+D10582691.P13,D10582691.E71,Colorectal Cancer,,neop,PROCESS_OF,D10582691.E70,Patients,,humn
+D10582691.P14,D10582691.E90,Colonic mucous membrane,,bpoc,LOCATION_OF,D10582691.E87,CD82 gene,,aapp
+D10582691.P15,D10582691.E84,Neoplasm Metastasis,,neop,PROCESS_OF,D10582691.E82,Patients,,humn
+D10582691.P16,D10582691.E110,Colonic mucous membrane,,bpoc,LOCATION_OF,D10582691.E108,CD82 gene,,aapp
+D10583438.P1,D10583438.E1,"nucleocapsid protein, Hepatitis C virus",,aapp,DISRUPTS,D10583438.E3,Apoptosis,,celf
+D10583438.P2,D10583438.E12,"nucleocapsid protein, Hepatitis C virus",,aapp,INHIBITS,D10583438.E13,Cisplatin,,inch
+D10583438.P3,D10583438.E13,Cisplatin,,phsu,CAUSES,D10583438.E14,Apoptosis,,celf
+D10583438.P4,D10583438.E13,Cisplatin,,phsu,CAUSES,D10583438.E17,Apoptosis,,celf
+D10583438.P5,D10583438.E18,MYC gene,,gngm,PART_OF,D10583438.E19,Chinese Hamster Ovary Cell,,cell
+D10583438.P6,D10583438.E35,Liver neoplasms,,neop,PROCESS_OF,D10583438.E34,Homo sapiens,,humn
+D10583438.P7,D10583438.E26,viral nucleocapsid location,,celc,PART_OF,D10583438.E25,Hepatitis C virus,,virs
+D10583438.P8,D10583438.E29,,,aapp,PART_OF,D10583438.E26,viral nucleocapsid location,,celc
+D10583438.P9,D10583438.E28,Tumor Necrosis Factors,,aapp,PART_OF,D10583438.E26,viral nucleocapsid location,,celc
+D10583438.P10,D10583438.E32,Antibodies,,gngm,CAUSES,D10583438.E33,Apoptosis,,celf
+D10583438.P11,D10583438.E33,Apoptosis,,celf,COEXISTS_WITH,D10583438.E35,Liver neoplasms,,neop
+D10583438.P12,D10583438.E41,"nucleocapsid protein, Hepatitis C virus",,aapp,INHIBITS,D10583438.E45,,,aapp
+D10583438.P13,D10583438.E41,"nucleocapsid protein, Hepatitis C virus",,aapp,INHIBITS,D10583438.E44,Tumor Necrosis Factors,,aapp
+D10583438.P14,D10583438.E55,viral nucleocapsid location,,celc,PART_OF,D10583438.E54,Hepatitis C virus,,virs
+D10583438.P15,D10583438.E58,apoptosis signaling,,celf,AFFECTS,D10583438.E57,Apoptosis,,celf
+D10583438.P16,D10583438.E68,"nucleocapsid protein, Hepatitis C virus",,aapp,AFFECTS,D10583438.E70,Apoptosis,,celf
+D10586060.P1,D10586060.E15,Oncostatin-M Specific Receptor Beta Subunit,,aapp,ISA,D10586060.E14,oncostatin M receptor,,aapp
+D10586060.P2,D10586060.E10,oncostatin M,,aapp,AFFECTS,D10586060.E11,Heterodimerization,,moft
+D10586060.P3,D10586060.E7,leukemia inhibitory factor,,aapp,AFFECTS,D10586060.E11,Heterodimerization,,moft
+D10586060.P4,D10586060.E9,Ciliary Neurotrophic Factor,,aapp,AFFECTS,D10586060.E11,Heterodimerization,,moft
+D10586060.P5,D10586060.E8,cardiotrophin 1,,aapp,AFFECTS,D10586060.E11,Heterodimerization,,moft
+D10586060.P6,D10586060.E51,Hep G2 Cells,,cell,LOCATION_OF,D10586060.E48,Acute-Phase Proteins,,aapp
+D10586060.P7,D10586060.E46,Oncostatin-M Specific Receptor Beta Subunit,,aapp,STIMULATES,D10586060.E48,Acute-Phase Proteins,,gngm
+D10586060.P8,D10586060.E45,LIFR gene,,aapp,STIMULATES,D10586060.E48,Acute-Phase Proteins,,gngm
+D10586060.P9,D10586060.E61,COS-7 Cells,,cell,LOCATION_OF,D10586060.E59,"STAT5A protein, human",,aapp
+D10586060.P10,D10586060.E61,COS-7 Cells,,cell,LOCATION_OF,D10586060.E60,STAT3 gene,,aapp
+D10586060.P11,D10586060.E55,Oncostatin-M Specific Receptor Beta Subunit,,aapp,AUGMENTS,D10586060.E58,dna binding,,genf
+D10586060.P12,D10586060.E54,LIFR gene,,aapp,AUGMENTS,D10586060.E58,dna binding,,genf
+D10586060.P13,D10586060.E65,Oncostatin-M Specific Receptor Beta Subunit,,aapp,STIMULATES,D10586060.E66,,,gngm
+D10586060.P14,D10586060.E64,LIFR gene,,aapp,STIMULATES,D10586060.E66,,,gngm
+D10586060.P15,D10586060.E73,Janus kinase 1,,aapp,ISA,D10586060.E72,Janus kinase,,aapp
+D10586060.P16,D10586060.E86,COS-7 Cells,,cell,LOCATION_OF,D10586060.E82,Oncostatin-M Specific Receptor Beta Subunit,,aapp
+D10586060.P17,D10586060.E86,COS-7 Cells,,cell,LOCATION_OF,D10586060.E81,LIFR gene,,aapp
+D10589760.P1,D10589760.E6,"Transcription, Genetic",,genf,AFFECTS,D10589760.E8,FHIT gene,,aapp
+D10589760.P2,D10589760.E20,Liver carcinoma,,neop,PROCESS_OF,D10589760.E19,Homo sapiens,,humn
+D10589760.P3,D10589760.E12,Liver carcinoma,,neop,PROCESS_OF,D10589760.E11,Homo sapiens,,humn
+D10589760.P4,D10589760.E24,Matched Tissues,,bdsu,ASSOCIATED_WITH,D10589760.E25,Liver normal,,fndg
+D10589760.P5,D10589760.E47,Liver,,bpoc,LOCATION_OF,D10589760.E45,HCCS gene,,aapp
+D10597235.P1,D10597235.E6,Carcinoma,,neop,PROCESS_OF,D10597235.E5,Homo sapiens,,humn
+D10597235.P2,D10597235.E7,Transgenes,,gngm,CAUSES,D10597235.E11,Liver carcinoma,,neop
+D10597235.P3,D10597235.E11,Liver carcinoma,,neop,PROCESS_OF,D10597235.E12,Mus,,mamm
+D10597235.P4,D10597235.E11,Liver carcinoma,,neop,PROCESS_OF,D10597235.E13,Old World rabbit,,mamm
+D10597235.P5,D10597235.E9,apoB mRNA editing catalytic subunit,,aapp,PART_OF,D10597235.E10,apolipoprotein B mRNA editing enzyme complex,,celc
+D10597235.P6,D10597235.E23,Carcinoma,,neop,PROCESS_OF,D10597235.E22,Homo sapiens,,humn
+D10597235.P7,D10597235.E21,APOBEC1 gene,,gngm,ASSOCIATED_WITH,D10597235.E23,Carcinoma,,neop
+D10597235.P8,D10597235.E76,Carcinoma,,neop,PROCESS_OF,D10597235.E75,Homo sapiens,,humn
+D10597235.P9,D10597235.E72,apoB mRNA editing catalytic subunit,,aapp,ASSOCIATED_WITH,D10597235.E76,Carcinoma,,neop
+D10597235.P10,D10597235.E86,Carcinoma,,neop,PROCESS_OF,D10597235.E85,Homo sapiens,,humn
+D10597235.P11,D10597235.E82,APOBEC1 gene,,gngm,PREDISPOSES,D10597235.E83,Neoplastic Cell Transformation,,neop
+D10597262.P1,D10597262.E7,Liver carcinoma,,neop,PROCESS_OF,D10597262.E6,Homo sapiens,,humn
+D10597262.P2,D10597262.E5,Proteins,,aapp,ASSOCIATED_WITH,D10597262.E7,Liver carcinoma,,neop
+D10597262.P4,D10597262.E33,Immunohistochemistry,,diap,DIAGNOSES,D10597262.E34,Liver carcinoma,,neop
+D10597262.P5,D10597262.E58,CTNNB1 Gene Mutation,,comd,COEXISTS_WITH,D10597262.E60,Carcinoma,,neop
+D10597262.P6,D10597262.E69,CTNNB1 gene,,gngm,ASSOCIATED_WITH,D10597262.E74,Fibrolamellar hepatocellular carcinoma,,neop
+D10601571.P1,D10601571.E3,trichostatin A,,antb,TREATS,D10601571.E7,Liver carcinoma,,neop
+D10601571.P2,D10601571.E17,Liver carcinoma,,neop,PROCESS_OF,D10601571.E16,Homo sapiens,,humn
+D10601571.P3,D10601571.E46,HDAC1 gene,,aapp,ASSOCIATED_WITH,D10601571.E53,Hepatocarcinogenesis,,neop
+D10601571.P4,D10601571.E48,Recombinant Transforming Growth Factor-Beta 1,,aapp,ASSOCIATED_WITH,D10601571.E53,Hepatocarcinogenesis,,neop
+D10601571.P5,D10601571.E64,trichostatin A,,antb,ISA,D10601571.E63,Histone deacetylase inhibitor,,aapp
+D10601571.P6,D10601571.E88,Liver carcinoma,,neop,PROCESS_OF,D10601571.E87,Homo sapiens,,humn
+D10601571.P7,D10601571.E79,Insulin-Like Growth Factor Binding Protein 3,,gngm,CAUSES,D10601571.E80,Apoptosis,,celf
+D10601571.P8,D10601571.E85,Insulin-Like Growth Factor Binding Protein 3,,aapp,TREATS,D10601571.E88,Liver carcinoma,,neop
+D10606185.P1,D10606185.E10,Liver carcinoma,,neop,PROCESS_OF,D10606185.E2,Hepatitis B Virus,,virs
+D10606185.P2,D10606185.E10,Liver carcinoma,,neop,PROCESS_OF,D10606185.E9,Patients,,humn
+D10606185.P3,D10606185.E25,Liver parenchyma,,bpoc,LOCATION_OF,D10606185.E24,Instability,,fndg
+D10606185.P4,D10606185.E37,Chronic liver disease,,dsyn,PROCESS_OF,D10606185.E38,Patients,,humn
+D10606185.P5,D10606185.E33,Chronic liver disease,,dsyn,PROCESS_OF,D10606185.E34,Patients,,humn
+D10606185.P6,D10606185.E36,Liver carcinoma,,neop,AFFECTS,D10606185.E34,Patients,,humn
+D10606185.P7,D10606185.E53,Body tissue,,tisu,PART_OF,D10606185.E52,Neoplasms,,neop
+D10606185.P8,D10606185.E44,Gene Mutation,,genf,PROCESS_OF,D10606185.E45,telomerase activity,,genf
+D10606185.P9,D10606185.E48,Liver carcinoma,,neop,PROCESS_OF,D10606185.E45,telomerase activity,,genf
+D10606185.P10,D10606185.E58,Liver carcinoma,,neop,PROCESS_OF,D10606185.E57,Patients,,humn
+D10606185.P11,D10606185.E63,Chronic liver disease,,dsyn,ISA,D10606185.E62,Liver diseases,,dsyn
+D10606185.P12,D10606185.E62,Liver diseases,,dsyn,COEXISTS_WITH,D10606185.E63,Chronic liver disease,,dsyn
+D10606185.P13,D10606185.E65,Liver carcinoma,,neop,PROCESS_OF,D10606185.E64,Patients,,humn
+D10606185.P14,D10606185.E109,Infection,,patf,COEXISTS_WITH,D10606185.E112,Chronic liver disease,,dsyn
+D10613832.P1,D10613832.E6,"PSMD10 protein, human",,gngm,PART_OF,D10613832.E7,Liver carcinoma,,neop
+D10613832.P2,D10613832.E16,Liver,,bpoc,LOCATION_OF,D10613832.E17,Carcinogens,,hops
+D10613832.P3,D10613832.E8,Liver carcinoma,,neop,ISA,D10613832.E12,Malignant Neoplasms,,neop
+D10613832.P4,D10613832.E20,TP53 gene,,gngm,ISA,D10613832.E19,Tumor Suppressor Genes,,gngm
+D10613832.P5,D10613832.E20,TP53 gene,,gngm,AUGMENTS,D10613832.E23,Liver carcinoma,,neop
+D10613832.P6,D10613832.E33,PSMD10 gene,,gngm,AUGMENTS,D10613832.E35,Liver carcinoma,,neop
+D10613832.P7,D10613832.E39,NIH 3T3 Cells,,cell,LOCATION_OF,D10613832.E36,"PSMD10 protein, human",,aapp
+D10613832.P8,D10613832.E43,RB1 gene,,gngm,ISA,D10613832.E42,Retinoblastoma Genes,,gngm
+D10613832.P9,D10613832.E40,PSMD10 gene,,gngm,INTERACTS_WITH,D10613832.E43,RB1 gene,,gngm
+D10613832.P10,D10613832.E40,PSMD10 gene,,gngm,INTERACTS_WITH,D10613832.E42,Retinoblastoma Genes,,gngm
+D10613832.P11,D10613832.E48,"PSMD10 protein, human",,aapp,STIMULATES,D10613832.E50,Retinoblastoma Protein,,gngm
+D10613832.P12,D10613832.E62,"PSMD10 protein, human",,aapp,AFFECTS,D10613832.E59,cell growth,,celf
+D10613832.P13,D10613832.E62,"PSMD10 protein, human",,aapp,AFFECTS,D10613832.E61,"Transformation, function",,phsf
+D10626184.P1,D10626184.E4,Liver carcinoma,,neop,PROCESS_OF,D10626184.E3,Homo sapiens,,humn
+D10626184.P2,D10626184.E1,MDK gene,,gngm,PART_OF,D10626184.E4,Liver carcinoma,,neop
+D10626184.P3,D10626184.E10,Carcinoma,,neop,PROCESS_OF,D10626184.E9,Homo sapiens,,humn
+D10626184.P4,D10626184.E8,MDK gene,,gngm,ASSOCIATED_WITH,D10626184.E10,Carcinoma,,neop
+D10626184.P5,D10626184.E19,Body tissue,,tisu,PART_OF,D10626184.E18,Neoplasms,,neop
+D10626184.P6,D10626184.E23,Tumor Markers,,bacs,PART_OF,D10626184.E22,MDK gene,,aapp
+D10626184.P7,D10626184.E15,MDK gene,,gngm,PART_OF,D10626184.E16,Neoplasms,,neop
+D10626184.P8,D10626184.E19,Body tissue,,tisu,PART_OF,D10626184.E20,Liver,,bpoc
+D10626184.P9,D10626184.E28,Secondary malignant neoplasm of liver,,neop,PROCESS_OF,D10626184.E26,Patients,,humn
+D10626184.P10,D10626184.E27,Liver carcinoma,,neop,PROCESS_OF,D10626184.E26,Patients,,humn
+D10626184.P11,D10626184.E31,Liver carcinoma,,neop,PROCESS_OF,D10626184.E32,Patients,,humn
+D10626184.P12,D10626184.E60,Body tissue,,tisu,PRODUCES,D10626184.E58,"MDK protein, human",,aapp
+D10626184.P13,D10626184.E56,Body tissue,,tisu,PRODUCES,D10626184.E58,"MDK protein, human",,aapp
+D10626184.P14,D10626184.E70,Neoplasm Metastasis,,neop,PRODUCES,D10626184.E74,MDK gene,,aapp
+D10626184.P15,D10626184.E84,Body tissue,,tisu,PART_OF,D10626184.E83,Liver carcinoma,,neop
+D10626184.P16,D10626184.E86,Body tissue,,tisu,LOCATION_OF,D10626184.E81,"MDK protein, human",,aapp
+D10626820.P1,D10626820.E2,Endostatins,,aapp,PART_OF,D10626820.E1,House mice,,mamm
+D10626820.P2,D10626820.E2,Endostatins,,aapp,DISRUPTS,D10626820.E3,Anabolism,,biof
+D10626820.P3,D10626820.E32,Mouse Protein,,bacs,PART_OF,D10626820.E31,COL18A1 gene,,aapp
+D10626820.P4,D10626820.E20,"Balance, device",,medd,PREVENTS,D10626820.E21,Neoplasms,,neop
+D10626820.P5,D10626820.E25,Environment,,spco,LOCATION_OF,D10626820.E19,"Tumor cells, malignant",,cell
+D10626820.P6,D10626820.E28,Cells,,cell,PRODUCES,D10626820.E32,Mouse Protein,,aapp
+D10626820.P7,D10626820.E61,Vaccination,,topp,ADMINISTERED_TO,D10626820.E62,Mus,,mamm
+D10626820.P8,D10626820.E68,Cells,,cell,LOCATION_OF,D10626820.E67,Neoplasms,,neop
+D10626820.P9,D10626820.E65,Cells,,cell,LOCATION_OF,D10626820.E63,Neoplasms,,neop
+D10626820.P11,D10626820.E70,Vaccination,,topp,compared_with,D10626820.E80,Vaccination,,topp
+D10626820.P12,D10626820.E70,Vaccination,,topp,same_as,D10626820.E80,Vaccination,,topp
+D10626820.P13,D10626820.E95,COL18A1 gene,,gngm,DISRUPTS,D10626820.E96,Neoplasms,,neop
+D10628941.P1,D10628941.E2,Erythropoietin,,aapp,ASSOCIATED_WITH,D10628941.E3,Renal Cell Carcinoma,,neop
+D10628941.P2,D10628941.E27,Base Sequence,,nusq,ASSOCIATED_WITH,D10628941.E30,Neoplasms,,neop
+D10632332.P1,D10632332.E6,Liver carcinoma,,neop,PROCESS_OF,D10632332.E5,Patients,,humn
+D10632332.P2,D10632332.E2,PTGS2 gene,,gngm,PART_OF,D10632332.E3,Liver parenchyma,,bpoc
+D10632332.P3,D10632332.E12,Malignant Neoplasms,,neop,PROCESS_OF,D10632332.E11,Homo sapiens,,humn
+D10632332.P4,D10632332.E16,PTGS2 gene,,gngm,ASSOCIATED_WITH,D10632332.E17,Liver carcinoma,,neop
+D10632332.P5,D10632332.E23,HCCS gene,,gngm,PART_OF,D10632332.E22,Patients,,humn
+D10632332.P6,D10632332.E19,PTGS2 gene,,gngm,PART_OF,D10632332.E22,Patients,,humn
+D10632332.P7,D10632332.E35,PTGS2 gene,,gngm,AUGMENTS,D10632332.E36,Liver normal,,fndg
+D10632332.P8,D10632332.E47,Liver carcinoma,,neop,PRODUCES,D10632332.E50,PTGS2 gene,,aapp
+D10632332.P9,D10632332.E67,PTGS2 gene,,gngm,PART_OF,D10632332.E68,Liver carcinoma,,neop
+D10649492.P1,D10649492.E14,Colorectal,,spco,LOCATION_OF,D10649492.E15,"Cell Line, Tumor",,cell
+D10649492.P2,D10649492.E29,ARHGAP1 gene,,gngm,PART_OF,D10649492.E28,Rattus norvegicus,,mamm
+D10649492.P3,D10649492.E20,Genes,,gngm,PART_OF,D10649492.E23,Hybrids,,orgm
+D10649492.P4,D10649492.E36,primary tumor,,neop,PART_OF,D10649492.E35,ovarian,,bpoc
+D10649492.P5,D10649492.E65,Anatomic Site,,blor,LOCATION_OF,D10649492.E61,mutation analysis,,lbpr
+D10660482.P1,D10660482.E11,HFE gene,,gngm,ASSOCIATED_WITH,D10660482.E18,Iron Overload,,dsyn
+D10660482.P2,D10660482.E27,Liver carcinoma,,neop,PROCESS_OF,D10660482.E26,Patients,,humn
+D10660482.P3,D10660482.E25,Hepatocyte,,cell,LOCATION_OF,D10660482.E24,Neoplastic Cell Transformation,,neop
+D10660482.P4,D10660482.E24,Neoplastic Cell Transformation,,neop,AFFECTS,D10660482.E20,Mutation,,genf
+D10660482.P5,D10660482.E40,Liver carcinoma,,neop,PROCESS_OF,D10660482.E39,Patients,,humn
+D10660482.P6,D10660482.E41,Sign or Symptom,,fndg,PROCESS_OF,D10660482.E39,Patients,,humn
+D10660482.P7,D10660482.E48,Liver carcinoma,,neop,PROCESS_OF,D10660482.E49,Patients,,humn
+D10660482.P8,D10660482.E64,Liver carcinoma,,neop,AFFECTS,D10660482.E63,Pathogenesis,,patf
+D10662591.P1,D10662591.E2,TP53 gene,,gngm,ASSOCIATED_WITH,D10662591.E4,Liver carcinoma,,neop
+D10662591.P2,D10662591.E9,TP53 gene,,gngm,ASSOCIATED_WITH,D10662591.E8,Microsatellite Instability,,patf
+D10662591.P3,D10662591.E5,Liver carcinoma,,neop,COEXISTS_WITH,D10662591.E12,Hepatocarcinogenesis,,neop
+D10662591.P4,D10662591.E61,Dietary intake,,orgf,PROCESS_OF,D10662591.E60,Mutation,,genf
+D10662591.P5,D10662591.E65,Liver carcinoma,,neop,ISA,D10662591.E68,Neoplasms,,neop
+D10662591.P6,D10662591.E71,Microsatellite Instability,,patf,ASSOCIATED_WITH,D10662591.E76,TP53 gene,,gngm
+D10662591.P7,D10662591.E83,TP53 gene,,gngm,ASSOCIATED_WITH,D10662591.E86,Liver carcinoma,,neop
+D10665646.P1,D10665646.E4,CTNNB1 gene,,gngm,ASSOCIATED_WITH,D10665646.E5,Liver carcinoma,,neop
+D10665646.P2,D10665646.E10,CTNNB1 gene,,gngm,PREDISPOSES,D10665646.E11,Hepatocarcinogenesis,,neop
+D10665646.P3,D10665646.E70,Anaplastic Oligodendroglioma,,neop,AFFECTS,D10665646.E57,Mutation,,genf
+D10665646.P4,D10665646.E70,Anaplastic Oligodendroglioma,,neop,AFFECTS,D10665646.E64,Mutation,,genf
+D10665646.P5,D10665646.E59,CTNNB1 gene,,gngm,ASSOCIATED_WITH,D10665646.E62,Liver carcinoma,,neop
+D10665646.P6,D10665646.E65,CTNNB1 gene,,gngm,ASSOCIATED_WITH,D10665646.E69,Hepatocarcinogenesis,,neop
+D10668884.P1,D10668884.E7,Liver carcinoma,,neop,PROCESS_OF,D10668884.E6,Patients,,humn
+D10668884.P2,D10668884.E4,Bone Marrow,,tisu,PART_OF,D10668884.E6,Patients,,humn
+D10668884.P3,D10668884.E5,Blood specimen,,bdsu,PART_OF,D10668884.E6,Patients,,humn
+D10668884.P4,D10668884.E12,Recurrence (disease attribute),,patf,PROCESS_OF,D10668884.E9,Patients,,humn
+D10668884.P5,D10668884.E10,Liver carcinoma,,neop,PROCESS_OF,D10668884.E9,Patients,,humn
+D10668884.P6,D10668884.E25,circulating cancer cell,,cell,PART_OF,D10668884.E24,Liver,,bpoc
+D10668884.P7,D10668884.E26,Blood specimen,,bdsu,LOCATION_OF,D10668884.E22,alpha-Fetoproteins,,aapp
+D10668884.P8,D10668884.E38,Liver carcinoma,,neop,PROCESS_OF,D10668884.E37,Patients,,humn
+D10668884.P9,D10668884.E31,Assay,,lbpr,METHOD_OF,D10668884.E32,Detection,,topp
+D10668884.P10,D10668884.E35,Venous blood substance,,tisu,PART_OF,D10668884.E37,Patients,,humn
+D10668884.P11,D10668884.E36,Bone marrow specimen,,bdsu,PART_OF,D10668884.E37,Patients,,humn
+D10668884.P12,D10668884.E58,Liver carcinoma,,neop,PROCESS_OF,D10668884.E57,Patients,,humn
+D10668884.P13,D10668884.E58,Liver carcinoma,,neop,PROCESS_OF,D10668884.E59,Patients,,humn
+D10668884.P14,D10668884.E56,Bone marrow specimen,,bdsu,PART_OF,D10668884.E57,Patients,,humn
+D10668884.P15,D10668884.E56,Bone marrow specimen,,bdsu,PART_OF,D10668884.E59,Patients,,humn
+D10668884.P16,D10668884.E87,Blood specimen,,bdsu,PART_OF,D10668884.E88,Healthy Volunteers,,humn
+D10668884.P17,D10668884.E89,Bone marrow specimen,,bdsu,PART_OF,D10668884.E88,Healthy Volunteers,,humn
+D10668884.P18,D10668884.E87,Blood specimen,,bdsu,PART_OF,D10668884.E90,Patients,,humn
+D10668884.P19,D10668884.E89,Bone marrow specimen,,bdsu,PART_OF,D10668884.E90,Patients,,humn
+D10668884.P20,D10668884.E96,Liver carcinoma,,neop,PROCESS_OF,D10668884.E95,Patients,,humn
+D10668884.P21,D10668884.E97,,,gngm,PRODUCES,D10668884.E98,Bone marrow specimen,,bdsu
+D10668884.P22,D10668884.E101,advanced disease,,fndg,PROCESS_OF,D10668884.E100,Patients,,humn
+D10668884.P23,D10668884.E113,Recurrent Malignant Neoplasm,,neop,PROCESS_OF,D10668884.E111,Patients,,humn
+D10668884.P24,D10668884.E117,Venous blood substance,,tisu,PART_OF,D10668884.E118,Patients,,humn
+D10668884.P25,D10668884.E117,Venous blood substance,,tisu,PART_OF,D10668884.E120,Patients,,humn
+D10668884.P26,D10668884.E119,Liver carcinoma,,neop,PROCESS_OF,D10668884.E118,Patients,,humn
+D10668884.P27,D10668884.E119,Liver carcinoma,,neop,PROCESS_OF,D10668884.E120,Patients,,humn
+D10668884.P28,D10668884.E131,Bone Marrow,,tisu,PART_OF,D10668884.E132,Patients,,humn
+D10668884.P29,D10668884.E133,Liver carcinoma,,neop,PROCESS_OF,D10668884.E132,Patients,,humn
+D10668884.P30,D10668884.E139,Alpha one fetoprotein measurement,,lbpr,METHOD_OF,D10668884.E142,Detection,,topp
+D10671685.P1,D10671685.E6,Liver carcinoma,,neop,PROCESS_OF,D10671685.E5,Homo sapiens,,humn
+D10671685.P2,D10671685.E4,TP53 gene,,gngm,ASSOCIATED_WITH,D10671685.E6,Liver carcinoma,,neop
+D10671685.P3,D10671685.E8,TP53 gene,,gngm,ASSOCIATED_WITH,D10671685.E10,Liver carcinoma,,neop
+D10671685.P4,D10671685.E27,Two,,qnco,ISA,D10671685.E28,Techniques,,ftcn
+D10671685.P5,D10671685.E34,Liver carcinoma,,neop,PROCESS_OF,D10671685.E33,Homo sapiens,,humn
+D10671685.P6,D10671685.E29,Neoplasms,,neop,COEXISTS_WITH,D10671685.E34,Liver carcinoma,,neop
+D10671685.P7,D10671685.E40,Monoclonal Antibodies,,imft,ADMINISTERED_TO,D10671685.E38,Patients,,humn
+D10671685.P8,D10671685.E37,Liver carcinoma,,neop,PART_OF,D10671685.E38,Patients,,humn
+D10671685.P9,D10671685.E43,TP53 gene,,gngm,ASSOCIATED_WITH,D10671685.E44,Liver carcinoma,,neop
+D10671685.P10,D10671685.E75,Liver carcinoma,,neop,PROCESS_OF,D10671685.E74,Homo sapiens,,humn
+D10671685.P11,D10671685.E72,TP53 gene,,gngm,ASSOCIATED_WITH,D10671685.E75,Liver carcinoma,,neop
+D10673071.P1,D10673071.E11,gamma-Aminobutyric Acid,,aapp,ISA,D10673071.E14,Neurotransmitters,,bacs
+D10673071.P2,D10673071.E26,gamma-Aminobutyric Acid,,aapp,DISRUPTS,D10673071.E27,Growth,,orgf
+D10673071.P3,D10673071.E51,Muscimol,,orch,INHIBITS,D10673071.E61,Albumins,,gngm
+D10673071.P4,D10673071.E96,,,gngm,AFFECTS,D10673071.E115,Cells,,cell
+D10673071.P5,D10673071.E96,,,gngm,AFFECTS,D10673071.E107,Receptor Cell,,cell
+D10673071.P6,D10673071.E102,Duration,,phsu,COEXISTS_WITH,D10673071.E106,gamma-A,,aapp
+D10673071.P7,D10673071.E106,gamma-A,,aapp,compared_with,D10673071.E116,Cloning Vectors,,nnon
+D10674843.P1,D10674843.E1,CHGA gene,,gngm,PART_OF,D10674843.E2,Liver carcinoma,,neop
+D10674843.P2,D10674843.E5,Germ-Line Mutation,,genf,PROCESS_OF,D10674843.E3,Patients,,humn
+D10674843.P3,D10674843.E8,Multiple Endocrine Neoplasia Type 1,,neop,PROCESS_OF,D10674843.E7,Patients,,humn
+D10674843.P4,D10674843.E6,Liver carcinoma,,neop,PROCESS_OF,D10674843.E7,Patients,,humn
+D10674843.P5,D10674843.E16,Neuroendocrine Tumors,,neop,PROCESS_OF,D10674843.E11,Patients,,humn
+D10674843.P6,D10674843.E10,Liver carcinoma,,neop,PROCESS_OF,D10674843.E11,Patients,,humn
+D10674843.P7,D10674843.E20,Hepatitis,,dsyn,PROCESS_OF,D10674843.E17,Patients,,humn
+D10674843.P8,D10674843.E18,Islet Cell Tumor,,neop,PROCESS_OF,D10674843.E17,Patients,,humn
+D10676663.P1,D10676663.E8,Malignant tumor of colon,,neop,PROCESS_OF,D10676663.E7,Homo sapiens,,humn
+D10676663.P2,D10676663.E6,"Genes, Suppressor",,gngm,ASSOCIATED_WITH,D10676663.E8,Malignant tumor of colon,,neop
+D10676663.P3,D10676663.E14,Neoplasm Metastasis,,neop,COEXISTS_WITH,D10676663.E15,Malignant tumor of colon,,neop
+D10676663.P4,D10676663.E22,Body tissue,,tisu,PART_OF,D10676663.E21,Primary malignant colonic tumor,,neop
+D10676663.P5,D10676663.E65,trichostatin A,,antb,ISA,D10676663.E64,Histone deacetylase inhibitor,,aapp
+D10676663.P6,D10676663.E66,Vorinostat,,orch,ISA,D10676663.E64,Histone deacetylase inhibitor,,aapp
+D10676663.P7,D10676663.E90,Secondary malignant neoplasm of liver,,neop,PROCESS_OF,D10676663.E91,"Mice, Nude",,mamm
+D10680884.P1,D10680884.E3,Liver,,bpoc,LOCATION_OF,D10680884.E2,Clear cell tumor,,neop
+D10680884.P2,D10680884.E8,Hepatic,,blor,LOCATION_OF,D10680884.E9,Metastatic Mass,,fndg
+D10680884.P3,D10680884.E17,Biopsy sample,,tisu,LOCATION_OF,D10680884.E12,Liver carcinoma,,neop
+D10680884.P4,D10680884.E18,In Situ Hybridization,,mbrt,METHOD_OF,D10680884.E22,Detection,,topp
+D10680884.P5,D10680884.E62,Retroperitoneal Space,,bsoj,LOCATION_OF,D10680884.E57,Clear cell tumor,,neop
+D10680884.P6,D10680884.E62,Retroperitoneal Space,,bsoj,LOCATION_OF,D10680884.E61,Clear cell tumor,,neop
+D10680884.P7,D10680884.E73,Clear Cell Hepatocellular Carcinoma,,neop,PRODUCES,D10680884.E77,,,aapp
+D10680884.P8,D10680884.E73,Clear Cell Hepatocellular Carcinoma,,neop,PRODUCES,D10680884.E74,,,aapp
+D10680884.P9,D10680884.E79,Neoplasms,,neop,PRODUCES,D10680884.E82,,,aapp
+D10680884.P10,D10680884.E79,Neoplasms,,neop,PRODUCES,D10680884.E81,,,aapp
+D10680884.P11,D10680884.E85,Serum,,bdsu,LOCATION_OF,D10680884.E86,,,aapp
+D10680884.P12,D10680884.E99,Retroperitoneal Space,,bsoj,LOCATION_OF,D10680884.E96,"Adenocarcinoma, Clear Cell",,neop
+D10680884.P13,D10680884.E99,Retroperitoneal Space,,bsoj,LOCATION_OF,D10680884.E98,Clear cell tumor,,neop
+D10692445.P1,D10692445.E1,NF-kappa B,,aapp,AFFECTS,D10692445.E2,Apoptosis,,celf
+D10692445.P2,D10692445.E4,,,gngm,ASSOCIATED_WITH,D10692445.E6,adenovirus hepatitis,,dsyn
+D10692445.P3,D10692445.E17,NF-kappa B,,gngm,CAUSES,D10692445.E29,positive regulation of NF-kappaB transcription factor activity,,celf
+D10692445.P4,D10692445.E41,Adenoviral Vector,,nnon,INTERACTS_WITH,D10692445.E44,NFKBIA gene,,aapp
+D10692445.P5,D10692445.E38,adenovirus hepatitis,,dsyn,AFFECTS,D10692445.E40,Mouse Model,,emod
+D10692445.P6,D10692445.E48,DNA,,bacs,PART_OF,D10692445.E47,NF-kappa B,,aapp
+D10692445.P7,D10692445.E45,LacZ Genes,,gngm,PRODUCES,D10692445.E46,Adenoviral Vector,,nnon
+D10692445.P8,D10692445.E48,DNA,,bacs,STIMULATES,D10692445.E50,,,gngm
+D10692445.P9,D10692445.E66,I Kappa B-Alpha,,aapp,INHIBITS,D10692445.E61,NF-kappa B,,aapp
+D10692445.P10,D10692445.E64,Liver,,bpoc,LOCATION_OF,D10692445.E63,Adenoviral infections,,dsyn
+D10692445.P11,D10692445.E69,I Kappa B-Alpha,,gngm,PRODUCES,D10692445.E70,Adenoviral Vector,,nnon
+D10692445.P12,D10692445.E69,I Kappa B-Alpha,,aapp,INTERACTS_WITH,D10692445.E67,LacZ Genes,,aapp
+D10692445.P13,D10692445.E90,I Kappa B-Alpha,,aapp,INHIBITS,D10692445.E87,,,gngm
+D10692445.P14,D10692445.E82,,,gngm,PART_OF,D10692445.E81,Cultured Cell Line,,cell
+D10692445.P15,D10692445.E100,Assay,,lbpr,USES,D10692445.E99,caspase-3,,aapp
+D10692445.P16,D10692445.E105,Adenoviral infections,,dsyn,ASSOCIATED_WITH,D10692445.E107,caspase-3 activity,,moft
+D10692445.P17,D10692445.E117,NF-kappa B,,aapp,COEXISTS_WITH,D10692445.E118,,,gngm
+D10692445.P18,D10692445.E115,pro-apoptosis,,celf,AFFECTS,D10692445.E122,Hepatocyte,,cell
+D10692445.P19,D10692445.E123,NF-kappa B,,aapp,AFFECTS,D10692445.E124,hepatocyte apoptotic process,,celf
+D10692769.P1,D10692769.E34,Cytoplasmic Protein,,bacs,PART_OF,D10692769.E32,GPNMB gene,,aapp
+D10692769.P2,D10692769.E82,Multiple polyps,,neop,ISA,D10692769.E83,Malignant Neoplasms,,neop
+D10692769.P3,D10692769.E99,"Promoter Regions, Genetic",,bacs,PART_OF,D10692769.E100,E-Cadherin,,aapp
+D10692769.P4,D10692769.E96,Gene Mutation,,genf,PRODUCES,D10692769.E103,Cell surface,,celc
+D10692769.P5,D10692769.E105,E-Cadherin,,aapp,DISRUPTS,D10692769.E94,catenin complex,,celc
+D10692769.P6,D10692769.E116,Malignant neoplasm of gastrointestinal tract,,neop,PROCESS_OF,D10692769.E115,Homo sapiens,,humn
+D10692769.P7,D10692769.E124,CDH1 gene,,gngm,ASSOCIATED_WITH,D10692769.E127,diffuse carcinoma of the stomach,,neop
+D10692769.P8,D10692769.E130,"Promoter Regions, Genetic",,bacs,PART_OF,D10692769.E131,CDH1 gene,,aapp
+D10692769.P9,D10692769.E131,CDH1 gene,,gngm,ASSOCIATED_WITH,D10692769.E132,Liver carcinoma,,neop
+D10692769.P10,D10692769.E128,cytidylyl-3'-5'-guanosine,,bacs,COEXISTS_WITH,D10692769.E135,Tumor Suppressor Genes,,gngm
+D10692769.P11,D10692769.E128,cytidylyl-3'-5'-guanosine,,bacs,COEXISTS_WITH,D10692769.E136,CTNNB1 gene,,gngm
+D10692769.P12,D10692769.E135,Tumor Suppressor Genes,,gngm,ASSOCIATED_WITH,D10692769.E138,Colorectal Cancer,,neop
+D10692769.P13,D10692769.E136,CTNNB1 gene,,gngm,ASSOCIATED_WITH,D10692769.E138,Colorectal Cancer,,neop
+D10692769.P14,D10692769.E143,CDH1 gene,,gngm,ASSOCIATED_WITH,D10692769.E144,Malignant neoplasm of gastrointestinal tract,,neop
+D10699924.P1,D10699924.E8,Liver carcinoma,,neop,PROCESS_OF,D10699924.E7,Homo sapiens,,humn
+D10699924.P2,D10699924.E11,Liver carcinoma,,neop,PROCESS_OF,D10699924.E10,Homo sapiens,,humn
+D10699924.P3,D10699924.E14,DNA,,bacs,ASSOCIATED_WITH,D10699924.E17,Liver carcinoma,,neop
+D10699924.P4,D10699924.E63,Subcutaneous Fat,,tisu,LOCATION_OF,D10699924.E61,Neoplasms,,neop
+D10699924.P5,D10699924.E63,Subcutaneous Fat,,tisu,PART_OF,D10699924.E64,"Mice, Nude",,mamm
+D10699924.P6,D10699924.E81,Premalignant Cell,,cell,PART_OF,D10699924.E80,Liver,,bpoc
+D10699924.P7,D10699924.E81,Premalignant Cell,,cell,LOCATION_OF,D10699924.E78,Anaplastic Oligodendroglioma,,neop
+D10700176.P1,D10700176.E1,AXIN1 gene,,gngm,ASSOCIATED_WITH,D10700176.E4,Growth retardation,,patf
+D10700176.P2,D10700176.E1,AXIN1 gene,,gngm,ASSOCIATED_WITH,D10700176.E3,Liver carcinoma,,neop
+D10700176.P3,D10700176.E15,Cytoplasm,,celc,LOCATION_OF,D10700176.E14,CTNNB1 gene,,aapp
+D10700176.P4,D10700176.E32,Neoplasms,,neop,PROCESS_OF,D10700176.E31,Homo sapiens,,humn
+D10700176.P5,D10700176.E28,CTNNB1 gene,,gngm,ASSOCIATED_WITH,D10700176.E32,Neoplasms,,neop
+D10700176.P6,D10700176.E29,PROC wt Allele,,gngm,ASSOCIATED_WITH,D10700176.E32,Neoplasms,,neop
+D10700176.P7,D10700176.E47,,,gngm,COEXISTS_WITH,D10700176.E41,AXIN1 gene,,gngm
+D10700176.P8,D10700176.E35,,,gngm,COEXISTS_WITH,D10700176.E41,AXIN1 gene,,gngm
+D10700176.P10,D10700176.E54,Cultured Cell Line,,cell,LOCATION_OF,D10700176.E52,AXIN1 gene,,aapp
+D10700176.P11,D10700176.E64,CTNNB1 gene,,gngm,COEXISTS_WITH,D10700176.E63,,,gngm
+D10700176.P12,D10700176.E70,Colorectal,,spco,LOCATION_OF,D10700176.E71,"Tumor cells, malignant",,cell
+D10700176.P13,D10700176.E76,AXIN1 gene,,gngm,CAUSES,D10700176.E84,Colorectal Cancer,,neop
+D10700176.P14,D10700176.E75,CTNNB1 gene,,gngm,CAUSES,D10700176.E84,Colorectal Cancer,,neop
+D10700176.P15,D10700176.E74,PROC wt Allele,,gngm,CAUSES,D10700176.E84,Colorectal Cancer,,neop
+D10704681.P1,D10704681.E7,Primary malignant neoplasm of liver,,neop,PROCESS_OF,D10704681.E6,Homo sapiens,,humn
+D10704681.P2,D10704681.E2,CDKN2A gene,,gngm,AFFECTS,D10704681.E4,rodent cell line,,cell
+D10704681.P3,D10704681.E9,CDKN2A gene,,gngm,ISA,D10704681.E8,Tumor Suppressor Genes,,gngm
+D10704681.P4,D10704681.E33,Tumor Suppressor Genes,,gngm,INHIBITS,D10704681.E26,Exons,,bacs
+D10704681.P5,D10704681.E39,Liver and Intrahepatic Biliary Tract Carcinoma,,neop,PROCESS_OF,D10704681.E38,Homo sapiens,,humn
+D10704681.P6,D10704681.E61,CDKN2A gene,,gngm,ASSOCIATED_WITH,D10704681.E64,Hepatocarcinogenesis,,neop
+D10705874.P1,D10705874.E1,mutation analysis,,lbpr,DIAGNOSES,D10705874.E5,Liver carcinoma,,neop
+D10705874.P2,D10705874.E25,Neoplasms,,neop,PROCESS_OF,D10705874.E24,Homo sapiens,,humn
+D10705874.P3,D10705874.E20,"Chromosomes, Human, Pair 3",,celc,LOCATION_OF,D10705874.E19,Candidate Tumor Suppressor Gene,,aapp
+D10705874.P4,D10705874.E27,PTEN gene,,gngm,INTERACTS_WITH,D10705874.E29,10q,,nusq
+D10705874.P5,D10705874.E29,10q,,nusq,ASSOCIATED_WITH,D10705874.E32,Liver neoplasms,,neop
+D10705874.P6,D10705874.E45,Body tissue,,tisu,PART_OF,D10705874.E44,Liver neoplasms,,neop
+D10705874.P7,D10705874.E62,PTEN gene,,aapp,TREATS,D10705874.E67,Malignant Neoplasms,,neop
+D10705874.P8,D10705874.E58,FHIT gene,,gngm,ASSOCIATED_WITH,D10705874.E70,Neoplastic Cell Transformation,,neop
+D10705874.P9,D10705874.E57,TSG101 gene,,gngm,ASSOCIATED_WITH,D10705874.E70,Neoplastic Cell Transformation,,neop
+D10705874.P10,D10705874.E81,Liver neoplasms,,neop,AFFECTS,D10705874.E80,Pathogenesis,,patf
+D10706123.P1,D10706123.E4,Liver carcinoma,,neop,PROCESS_OF,D10706123.E3,Homo sapiens,,humn
+D10706123.P2,D10706123.E2,FHIT gene,,gngm,AFFECTS,D10706123.E4,Liver carcinoma,,neop
+D10706123.P3,D10706123.E16,Malignant Neoplasms,,neop,PROCESS_OF,D10706123.E15,Homo sapiens,,humn
+D10706123.P4,D10706123.E21,Pharmacologic Substance,,phsu,COEXISTS_WITH,D10706123.E7,Candidate Tumor Suppressor Gene,,gngm
+D10706123.P5,D10706123.E8,FHIT gene,,gngm,COEXISTS_WITH,D10706123.E12,"Genome, Human",,gngm
+D10706123.P6,D10706123.E26,Carcinogens,,hops,ISA,D10706123.E27,Agent,,chvf
+D10706123.P7,D10706123.E23,Liver carcinoma,,neop,PROCESS_OF,D10706123.E22,Homo sapiens,,humn
+D10706123.P8,D10706123.E23,Liver carcinoma,,neop,ISA,D10706123.E25,Malignant Neoplasms,,neop
+D10706123.P9,D10706123.E40,Liver carcinoma,,neop,PROCESS_OF,D10706123.E39,Homo sapiens,,humn
+D10706123.P10,D10706123.E50,Liver carcinoma,,neop,PROCESS_OF,D10706123.E49,Homo sapiens,,humn
+D10706123.P11,D10706123.E44,FHIT gene,,gngm,PART_OF,D10706123.E46,Hepatocyte,,cell
+D10706123.P12,D10706123.E52,FHIT gene,,gngm,COEXISTS_WITH,D10706123.E59,DNA,,bacs
+D10706123.P13,D10706123.E68,Cultured Cell Line,,cell,PRODUCES,D10706123.E72,fragile histidine triad protein,,aapp
+D10706123.P14,D10706123.E96,FHIT gene,,gngm,PART_OF,D10706123.E94,Cultured Cell Line,,cell
+D10706123.P15,D10706123.E94,Cultured Cell Line,,cell,LOCATION_OF,D10706123.E91,FHIT gene,,aapp
+D10706123.P16,D10706123.E93,Chromosomes,,celc,LOCATION_OF,D10706123.E91,FHIT gene,,aapp
+D10706123.P17,D10706123.E89,Fluorescent in Situ Hybridization,,mbrt,USES,D10706123.E90,Probes,,medd
+D10706123.P18,D10706123.E89,Fluorescent in Situ Hybridization,,mbrt,DIAGNOSES,D10706123.E86,Chromosomal translocation,,comd
+D10706550.P1,D10706550.E8,PNP gene,,gngm,PART_OF,D10706550.E7,Escherichia coli,,bact
+D10706550.P2,D10706550.E2,Liver carcinoma,,neop,PROCESS_OF,D10706550.E5,"Mice, Nude",,mamm
+D10706550.P3,D10706550.E19,Genes,,aapp,TREATS,D10706550.E23,Liver carcinoma,,neop
+D10706550.P4,D10706550.E25,Purine-Nucleoside Phosphorylase,,aapp,PART_OF,D10706550.E24,Escherichia coli,,bact
+D10706550.P5,D10706550.E38,human cell line,,cell,LOCATION_OF,D10706550.E36,,,aapp
+D10706550.P6,D10706550.E38,human cell line,,cell,LOCATION_OF,D10706550.E40,herpes simplex thymidine kinase,,aapp
+D10706550.P7,D10706550.E36,,,gngm,compared_with,D10706550.E40,herpes simplex thymidine kinase,,aapp
+D10706550.P8,D10706550.E57,Therapeutic procedure,,topp,USES,D10706550.E56,fludarabine,,phsu
+D10706550.P9,D10706550.E66,Cells,,cell,LOCATION_OF,D10706550.E65,Toxic effect,,inpo
+D10706550.P10,D10706550.E62,Cells,,cell,PRODUCES,D10706550.E63,,,aapp
+D10706550.P11,D10706550.E66,Cells,,cell,PRODUCES,D10706550.E67,enhanced green fluorescent protein,,aapp
+D10706550.P12,D10706550.E68,,,gngm,DISRUPTS,D10706550.E72,Cells,,cell
+D10706550.P13,D10706550.E75,Therapeutic procedure,,topp,USES,D10706550.E74,Ganciclovir,,phsu
+D10706550.P14,D10706550.E88,"Non-human parturition, function",,orgf,PROCESS_OF,D10706550.E87,Adenoviruses,,virs
+D10706550.P15,D10706550.E93,Neoplasms,,neop,PROCESS_OF,D10706550.E95,"Mice, Nude",,mamm
+D10706550.P16,D10706550.E89,,,aapp,TREATS,D10706550.E99,Neoplasms,,neop
+D10706550.P17,D10706550.E103,fludarabine,,phsu,TREATS,D10706550.E106,Liver carcinoma,,neop
+D10713700.P1,D10713700.E3,"MET protein, human",,aapp,ISA,D10713700.E2,Proto-Oncogene Protein c-met,,aapp
+D10713700.P2,D10713700.E12,Neurotrophic Tyrosine Kinase Receptor Type 1,,aapp,PART_OF,D10713700.E11,integral to membrane,,celc
+D10713700.P3,D10713700.E8,Hepatocyte Growth Factor,,aapp,STIMULATES,D10713700.E12,Neurotrophic Tyrosine Kinase Receptor Type 1,,gngm
+D10713700.P4,D10713700.E25,Transfection,,mbrt,USES,D10713700.E32,Electrophoretic Mobility Shift Assay,,lbpr
+D10713700.P5,D10713700.E50,TRANSCRIPTION FACTOR,,aapp,INTERACTS_WITH,D10713700.E51,Carbon,,elii
+D10713700.P6,D10713700.E62,Hepatocyte Growth Factor,,aapp,AUGMENTS,D10713700.E61,Cells,,cell
+D10713700.P7,D10713700.E77,"MET protein, human",,aapp,AUGMENTS,D10713700.E82,hepatocyte growth factor receptor activity,,moft
+D10713700.P8,D10713700.E87,Curcumin,,orch,INHIBITS,D10713700.E84,"MET protein, human",,gngm
+D10713700.P9,D10713700.E93,Hepatocyte Growth Factor,,aapp,STIMULATES,D10713700.E92,MET gene,,gngm
+D10717233.P1,D10717233.E10,Carcinogens,,hops,INTERACTS_WITH,D10717233.E6,Enzymes,,enzy
+D10717233.P2,D10717233.E9,Oxidants,,chvf,INTERACTS_WITH,D10717233.E6,Enzymes,,enzy
+D10717233.P3,D10717233.E5,Glutathione S-Transferase,,aapp,PREDISPOSES,D10717233.E13,Malignant Neoplasms,,neop
+D10717233.P4,D10717233.E20,Malignant Neoplasms,,neop,PROCESS_OF,D10717233.E21,World,,humn
+D10717233.P5,D10717233.E25,DNA Methylation,,moft,AFFECTS,D10717233.E26,GSTP1 gene,,gngm
+D10717233.P6,D10717233.E34,Tissue specimen,,tisu,PART_OF,D10717233.E33,Liver carcinoma,,neop
+D10717233.P7,D10717233.E34,Tissue specimen,,tisu,PRODUCES,D10717233.E36,GSTP1 gene,,aapp
+D10717233.P8,D10717233.E41,CpG Islands,,bacs,COEXISTS_WITH,D10717233.E44,DNA,,bacs
+D10717233.P9,D10717233.E50,hepatoma cell,,cell,PRODUCES,D10717233.E51,GSTP1 gene,,aapp
+D10717233.P10,D10717233.E50,hepatoma cell,,cell,PRODUCES,D10717233.E54,Polypeptides,,aapp
+D10717233.P11,D10717233.E81,GSTP1 gene,,gngm,PART_OF,D10717233.E80,Diploid Cell,,cell
+D10717233.P12,D10717233.E82,CpG Islands,,bacs,COEXISTS_WITH,D10717233.E85,DNA,,bacs
+D10717233.P13,D10717233.E89,Sequence Analysis,,lbpr,USES,D10717233.E88,Genome,,aapp
+D10717233.P14,D10717233.E97,"Promoter, Genetic",,bacs,COEXISTS_WITH,D10717233.E99,DNA,,bacs
+D10717233.P15,D10717233.E107,Liver carcinoma,,neop,PROCESS_OF,D10717233.E106,Homo sapiens,,humn
+D10717233.P16,D10717233.E102,CpG Islands,,bacs,ASSOCIATED_WITH,D10717233.E107,Liver carcinoma,,neop
+D10717233.P17,D10717233.E113,CpG Islands,,bacs,PREDISPOSES,D10717233.E115,Pathogenesis,,patf
+D10719723.P1,D10719723.E14,NME1 gene,,gngm,ASSOCIATED_WITH,D10719723.E17,Colorectal Cancer,,neop
+D10719723.P2,D10719723.E30,NME1 gene,,gngm,PREDISPOSES,D10719723.E29,Secondary malignant neoplasm of liver,,neop
+D10719723.P3,D10719723.E24,Short Tandem Repeat,,bacs,PREDISPOSES,D10719723.E29,Secondary malignant neoplasm of liver,,neop
+D10719723.P4,D10719723.E37,Paraffin Embedded Tissue,,tisu,LOCATION_OF,D10719723.E38,Calcibiotic Root Canal Sealer,,inch
+D10719723.P5,D10719723.E39,Patients,,humn,LOCATION_OF,D10719723.E38,Calcibiotic Root Canal Sealer,,inch
+D10719723.P6,D10719723.E43,Locus,,gngm,PREDISPOSES,D10719723.E46,Secondary malignant neoplasm of liver,,neop
+D10719723.P7,D10719723.E55,Microsatellite Instability,,patf,PREDISPOSES,D10719723.E58,Secondary malignant neoplasm of liver,,neop
+D10719723.P8,D10719723.E58,Secondary malignant neoplasm of liver,,neop,COEXISTS_WITH,D10719723.E59,Neoplasms,,neop
+D10719723.P9,D10719723.E63,Liver,,bpoc,LOCATION_OF,D10719723.E64,Secondary Lesion,,fndg
+D10728685.P1,D10728685.E6,Mixed Function Oxygenases,,aapp,INTERACTS_WITH,D10728685.E10,Epidermal Growth Factor,,aapp
+D10728685.P2,D10728685.E10,Epidermal Growth Factor,,aapp,COEXISTS_WITH,D10728685.E13,Proteins,,gngm
+D10728685.P3,D10728685.E18,Liver carcinoma,,neop,PROCESS_OF,D10728685.E17,Homo sapiens,,humn
+D10728685.P4,D10728685.E15,ASPH gene,,gngm,PART_OF,D10728685.E19,Cholangiocarcinoma,,neop
+D10728685.P5,D10728685.E15,ASPH gene,,gngm,PART_OF,D10728685.E18,Liver carcinoma,,neop
+D10728685.P6,D10728685.E30,Disease,,dsyn,PROCESS_OF,D10728685.E29,Homo sapiens,,humn
+D10728685.P7,D10728685.E58,Neoplasms,,neop,PROCESS_OF,D10728685.E60,"Mice, Nude",,mamm
+D10728685.P8,D10728685.E50,Anaplastic Oligodendroglioma,,neop,PROCESS_OF,D10728685.E60,"Mice, Nude",,mamm
+D10728685.P9,D10728685.E66,Disease,,dsyn,PROCESS_OF,D10728685.E65,Homo sapiens,,humn
+D10728685.P10,D10728685.E61,ASPH gene,,gngm,ASSOCIATED_WITH,D10728685.E66,Disease,,dsyn
+D10728685.P11,D10728685.E75,Enzymes,,orch,TREATS,D10728685.E77,metaplastic cell transformation,,patf
+D10728685.P12,D10728685.E70,ASPH gene,,gngm,PART_OF,D10728685.E71,NIH 3T3 Cells,,cell
+D10728685.P13,D10728685.E79,ASPH gene,,gngm,ASSOCIATED_WITH,D10728685.E80,metaplastic cell transformation,,patf
