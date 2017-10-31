@@ -1,7 +1,7 @@
-library(timevis,lib.loc = './lib/')
+library(timevis)
 #####Data#######
 rdf=read.csv('./Predication.csv',header = T,stringsAsFactors = F)
-group_dic=data.frame(name=c(rdf$S_name,rdf$O_name),group=c(rdf$S_semtypes,rdf$O_semtypes),stringsAsFactors = F)
+group_dic=data.frame(name=c(rdf$S_name,rdf$O_name),group=c(rdf$S_SMTY,rdf$O_SMTY),stringsAsFactors = F)
 
 links=data.frame(S_name=rdf$S_name,O_name=rdf$O_name,label=rdf$P_name,stringsAsFactors = F)
 
@@ -45,8 +45,24 @@ shinyServer(function(input, output) {
     nodes.df=nodes[which(nodes$id %in% select_nodes),]
     #windows()
     ntwk=visNetwork(nodes.df, edges, height = "800px", width = "100%") %>%
-      visOptions(highlightNearest = TRUE, nodesIdSelection = TRUE)
+      visOptions(highlightNearest = TRUE, nodesIdSelection = TRUE)%>%
+      visInteraction(hover = TRUE) %>%
+      visEvents(hoverNode = "function(nodes) {
+                Shiny.onInputChange('current_node_id', nodes);
+                ;}") 
     
     ntwk
+  })
+  #Observe edges
+  observe({
+    input$getEdges
+    visNetworkProxy("Network") %>%
+      visGetEdges()
+  })
+  output$debug <- renderPrint({
+    input$current_node_id
+  })
+  output$debug2 <- renderPrint({
+    input$current_edge_id
   })
 })

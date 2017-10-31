@@ -1,4 +1,4 @@
-library(timevis,lib.loc = './lib/')
+library(timevis)
 ########Ui START#########
 ui <- dashboardPage(
   dashboardHeader(title = "Learn_HCC"),
@@ -28,12 +28,15 @@ ui <- dashboardPage(
                                  draggable = T,
                                  wellPanel(
                                    HTML('Just test for Drag!'),
+                                   verbatimTextOutput("debug"),
+                                   verbatimTextOutput("debug2"),
                                    selectInput('Relation','Relation:',unique(rdf$P_name),multiple = T,selected = 'TREATS')
                                  ),
                                  style = "opacity: 0.92"
                                ),
                                # Show a plot of the generated distribution
                                visNetworkOutput("Network")
+                               
                         )
               )
       )
